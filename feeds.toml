@@ -14,3 +14,12 @@ titleSelector = "h4 > div div:nth-child(1)"
 linkSelector = "a"
 contentSelector = "a dl dd"
 imageSelector = "a dl dt img"
+
+[gaonchart_opinion]
+title = "가온차트 ─ 칼럼"
+url = "http://www.gaonchart.co.kr/main/section/article/list.gaon?sgenre=opinion"
+entrySelector = "ul.news li"
+titleSelector = "h4 > div div:nth-child(1)"
+linkSelector = "a"
+contentSelector = "a dl dd"
+imageSelector = "a dl dt img"
