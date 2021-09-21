@@ -59,3 +59,12 @@ titleSelector = "h4 > div div:nth-child(1)"
 linkSelector = "a"
 contentSelector = "a dl dd"
 imageSelector = "a dl dt img"
+
+[certification]
+title = "가온차트 ─ 인증"
+url = "http://www.gaonchart.co.kr/main/section/certification/list.gaon"
+entrySelector = "div.chart tbody tr"
+titleSelector = "td.title"
+linkSelector = "td:nth-child(2) > img"
+contentSelector = "td:nth-child(4)"
+imageSelector = "td:nth-child(1) > img"
