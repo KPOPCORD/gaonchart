@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.gaonchart.co.kr/main/section/notice/list.gaon</id>
     <title>가온차트 ─ 공지사항</title>
-    <updated>2021-09-21T20:05:50.369Z</updated>
+    <updated>2021-09-21T20:08:22.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.gaonchart.co.kr/images/img/gaon.gif</icon>
     <entry>
         <title type="html"><![CDATA[[ 2021년 9월 20일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=127&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=127&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.981Z</updated>
+        <updated>2021-09-21T20:07:45.594Z</updated>
         <content type="html"><![CDATA[2021-09-20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 2021년 8월 9일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=126&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=126&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.985Z</updated>
+        <updated>2021-09-21T20:07:45.594Z</updated>
         <content type="html"><![CDATA[2021-08-09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 2021년 8월 9일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=125&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=125&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.985Z</updated>
+        <updated>2021-09-21T20:07:45.594Z</updated>
         <content type="html"><![CDATA[2021-08-09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 2021년 7월 12일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=124&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=124&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.985Z</updated>
+        <updated>2021-09-21T20:07:45.596Z</updated>
         <content type="html"><![CDATA[2021-07-12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 2021년 7월 9일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=123&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=123&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.986Z</updated>
+        <updated>2021-09-21T20:07:45.603Z</updated>
         <content type="html"><![CDATA[2021-07-09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 2021년 7월 7일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=122&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=122&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.990Z</updated>
+        <updated>2021-09-21T20:07:45.604Z</updated>
         <content type="html"><![CDATA[2021-07-07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 2021년 7월 6일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=121&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=121&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.990Z</updated>
+        <updated>2021-09-21T20:07:45.604Z</updated>
         <content type="html"><![CDATA[2021-07-06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 2021년 6월 30일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=120&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=120&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.991Z</updated>
+        <updated>2021-09-21T20:07:45.604Z</updated>
         <content type="html"><![CDATA[2021-06-30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 2021년 6월 10일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=119&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=119&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.996Z</updated>
+        <updated>2021-09-21T20:07:45.604Z</updated>
         <content type="html"><![CDATA[2021-06-10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 2021년 6월 7일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=118&amp;pageNo=1&amp;condition=&amp;searchStr</id>
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=118&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2021-09-21T19:51:40.998Z</updated>
+        <updated>2021-09-21T20:07:45.604Z</updated>
         <content type="html"><![CDATA[2021-06-07]]></content>
     </entry>
 </feed>
