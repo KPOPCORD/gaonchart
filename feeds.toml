@@ -1,0 +1,16 @@
+[gaonchart_notice]
+title = "가온차트 ─ 공지사항"
+url = "http://www.gaonchart.co.kr/main/section/notice/list.gaon"
+entrySelector = "div.boardlist table tbody tr:not(:first-child)"
+titleSelector = "td.al"
+linkSelector = "td.al a"
+contentSelector = "td.sn:nth-child(3)"
+
+[gaonchart_news]
+title = "가온차트 ─ 뉴스"
+url = "http://www.gaonchart.co.kr/main/section/article/list.gaon?sgenre=news"
+entrySelector = "ul.news li"
+titleSelector = "h4 > div div:nth-child(1)"
+linkSelector = "a"
+contentSelector = "a dl dd"
+imageSelector = "a dl dt img"
