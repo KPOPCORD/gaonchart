@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 09:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 10:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KPOP은 정말 성장하고 있을까?]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19572&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19572&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Thu, 23 Sep 2021 10:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[최근 과거에 발매되었던 피지컬 구보 판매량이 증가하고 있는데, 이는 신보 발매 후 구보 판매량이 함께 증가하는  ′Backward spillover′ 현상이 여러 가수들에게서 동시다발적으로 나타나고 있기 때문으로 보입니다. 이러한 현상은 새롭게 KPOP 아티스트를 알게 된 전 세계 팬덤들이 해당 아티스트의 구 앨범을 찾아 구매하는 것으로, KPOP 시장에 신규 팬덤이 지속적으로 유입될 경우 활발하게  ...<span>김진우 연구위원 <em>|</em> 2021-09-23</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202109/171EE677EECB28FDA4B59F33AB3E0AC9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국발 규제 조치와 KPOP - 8월 리뷰 (2021)]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19512&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
             <content:encoded><![CDATA[&lt;가온차트_2위 특집&gt;  -집계기간_ 2010년 - 2020년 (주간차트)11년 역사로 보는 가온차트 - 제발 1위만 기억하지 마란~~ 말이야!   가온차트 디지털종합차트에서 타이틀곡 기준 1위를 가장 많이 기록한 아티스트는 2008년 9월 18일 데뷔한 아이유(IU)이다. 대부분의 사람들이 예상할 수 있는 결과이다. 구체적으로 아이유(IU)는 2010년부터 2020년까지 무려 37회 가온 디지털종...<span>정 다 운 <em>|</em> 2021-06-04</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/EE964A9A8C0A05D4B2112A45EA8A38A3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['MSG워너비' '싹쓰리'보다 가요계 반향 클듯]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18888&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18888&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[이번 칼럼에서는 최근 MBC 예능프로그램 ′놀면 뭐하니?′ 를 통해 진행되고 있는 ′MSG 워너비′ 프로젝트가 향후 음원차트에 어느 정도 영향을 줄지에 대해, 동일 프로그램에서 기진행된 ′싹쓰리′ 프로젝트와 비교해 살펴보도록 하겠습니다.  위 그래프는 2020년 예능 프로그램 ′놀면 뭐하니?′ 통해 결성된 혼성그룹 ′싹쓰리′가 발표한 음원의 성적 추이를 나타낸 것입니다. 7월 11일과 25일에 출시된 ...<span>김진우 연구위원 <em>|</em> 2021-05-25</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202105/5A87A446DD134A4F1CCB3D908C176C28.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
