@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 08:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 09:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피지컬 앨범 이미 작년 판매량 넘어서 5천만 장 눈앞 - 9월 리뷰 (2021)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19649&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19649&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Thu, 07 Oct 2021 09:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 9월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 6.2% 감소, 전년 동기 대비 8% 감소, 2019년 동기 대비 26.2% 감소한 것으로 나타났습니다.  9월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 17.8% 증가,  지난 2020년 9월에 비해서는 111.7% 증가한 것으로 조사되었습니다. 1월~9월까지 ...<span>김진우 연구위원 <em>|</em> 2021-10-07</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202110/04B81B18AC030211D9970D87E9C08123.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<가온차트_롱런 특집> 10년 역사로 보는 가온차트 - 이렇게 오래 듣고 있는지 ...]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19582&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
             <content:encoded><![CDATA[2021년 5월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 0.1% 감소, 전년 동기 대비 11.1% 감소, 2019년 동기 대비  22.5% 감소한 것으로 나타났습니다. 5월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 3.7%,  지난 2020년 5월에 비해서는 75% 증가한 것으로 조사되었습니다. 1월부터 5월까지 TOP400기준 피지컬 앨범 판매량은 ...<span>김진우 수석연구위원 <em>|</em> 2021-06-14</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/EC1030D6B237F19E31C3D85E0368AE2A.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa, 기획과 기술의 아이돌]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18998&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18998&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[2015년, SM엔터테인먼트에서 세계 최초로 홀로그램 뮤지컬 ‘스쿨 오즈’를 공연했다. 그리고 2020년 6월, 코로나 상황으로 펼쳐진 언택트 공연 ‘비욘드 라이브’에서는 증강현실 기술을 적용해 동방신기 무대에는 고래가 헤엄쳤고, 슈퍼주니어 멤버 최시원은 거인으로 등장하기도 했다. 그리고 2020년 11월, 우리에게 aespa(이하 ‘에스파’)가 다가왔다. 에스파는 SM엔터테인먼트에서 2014년 데뷔한...<span>김 수 현 <em>|</em> 2021-06-11</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/45A4C71B2CB6A1BCC03294695B68DBC1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
