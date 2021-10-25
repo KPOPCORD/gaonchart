@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 09:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 10:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝 음원은 왜 죄다 역주행일까?]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19740&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19740&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Mon, 25 Oct 2021 10:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[팝 음원이 최근 차트에서 강세를 보이고 있습니다. 특히 저스틴 비버나, 에드시런 같은 국내에서 많은 사랑을 받고 있는 가수들의 음원이 선전하고 있습니다. 그러나 이들의 노래는 국내 차트에서 최정상권에 단골로 오르는 곡들임에도 불구하고, 국내 유명 가수의 노래처럼 음원 출시와 함께 두각을 나타내지 못하고 거의 항상 역주행을 통해 상위권에 오른다는 공통점이 있습니다.  오늘 칼럼에서는 그 이유에 대해 알아...<span>김진우 수석연구위원 <em>|</em> 2021-10-25</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202110/8E60B3FDAEF6108D773231139DAC5B78.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[피지컬 앨범 이미 작년 판매량 넘어서 5천만 장 눈앞 - 9월 리뷰 (2021)]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19649&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 결산에서 리뷰 한 바와 같이 올해는 작년에 비해 피지컬 앨범 판매량이 이미 전년 동기 대비 6백만 장 가량 증가한 것으로 나타났습니다. 이번 카드 뉴스에서는 이와 같이 급증하고 있는 앨범 판매량을 어떤 가수가 주도하고 있는지 살펴보도록 하겠습니다.위 그래프는  2020년과 2021년 피지컬 앨범 판매량을 월별로 비교 한 것입니다.(400위 기준) 작년과 비교했을 때 올해 가장 큰 차이점은 월...<span>김진우 수석연구위원 <em>|</em> 2021-06-29</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/AFEBDC59C4CD48F269EFB4528FFD73D2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[피지컬 앨범 판매량 전년대비 6백만 장 많아 - 5월리뷰(2021)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19007&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19007&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 5월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 0.1% 감소, 전년 동기 대비 11.1% 감소, 2019년 동기 대비  22.5% 감소한 것으로 나타났습니다. 5월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 3.7%,  지난 2020년 5월에 비해서는 75% 증가한 것으로 조사되었습니다. 1월부터 5월까지 TOP400기준 피지컬 앨범 판매량은 ...<span>김진우 수석연구위원 <em>|</em> 2021-06-14</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/EC1030D6B237F19E31C3D85E0368AE2A.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
