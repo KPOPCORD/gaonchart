@@ -4,9 +4,17 @@
         <title>가온차트 ─ K-pop now</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 06:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SEVENTEEN 9th Mini Album ‘Attacca’, Number One o...]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19748&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19748&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Tue, 26 Oct 2021 06:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN claimed number one with their 9thMini Album ‘Attacca’ on the Gaon weekly retail album chart for week 43.  9th Mini Album ‘Attacca’ soldthe most copies on Friday, October 22nd, 2021 at 4pm(KST) during theweek 43. SEVE...<span>가온차트 <em>|</em> 2021-10-26</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202110/DB32BE46DC9FD5BBD59D96EB9F3D5661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AOMG 후디, 2년 만 EP [D-day] 공개…LP 버전 발매 예고까지 '기대 UP...]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19747&amp;sgenre=kpop&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 02:05:45 GMT</pubDate>
             <content:encoded><![CDATA[가온차트 (press@k-mca.or.kr)                                                        <span>가온차트 <em>|</em> 2021-10-25</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202110/2B0DE9F66472314BD85DE45274D29FFA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Week 42 Gaon Chart: 5 tops of honor LIM YOUNG WO...]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19731&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19731&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Mon, 25 Oct 2021 02:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[In the week 42 of Gaon Chart, LIM YOUNGWOONG dominated with five No.1s, aespa took #1 on the streaming chart, andENHYPEN reached No.1 on the album chart. The Korea Music Content Association, whichoperates Gaon Chart said, “In ...<span>가온차트 <em>|</em> 2021-10-25</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202110/1953690AE6E70CC0C243A8EAB398B70B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
