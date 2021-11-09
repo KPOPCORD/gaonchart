@@ -4,9 +4,17 @@
         <title>가온차트 ─ K-pop now</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 06:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SEVENTEEN的9th Mini Album《Attacca》10月 Gaon Chart ...]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19827&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19827&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Tue, 09 Nov 2021 06:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[가온차트 (press@k-mca.or.kr)                                    <span>가온차트 <em>|</em> 2021-11-09</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/C6721C9BFE0CEF532CFB299694C5095A.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['엑소·아이유·NCT와 협업' 주니(JUNNY), 새 싱글 'HIDE & SICK'...]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19825&amp;sgenre=kpop&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Nov 2021 03:23:58 GMT</pubDate>
             <content:encoded><![CDATA[비아이(B.I)는 지난 5일 0시 공식 SNS를 통해 오는 11일 발매되는 하프 앨범 ′COSMOS (코스모스)′의 두 번째 메시지 필름 ′UNCERTAINTY, THE BEAUTY OF YOUTH′를 게재했다. 비아이는 이번 영상을 통해 아직 어른이 되기 두려운 청춘의 모습을 보여준다. 여기에 비아이는 고뇌에찬 표정부터 즐거워하는 표정까지 다채로운 연기를 펼치며 몰입감을 높인다. 이번 메시지 필름 속...<span>가온차트 <em>|</em> 2021-11-08</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/70922BABEB417A4BE622C91A5D8EF4F0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IU、NCT 127、SEVENTEEN、林英雄、BTS、第44周在Gaon排行榜上活]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19812&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19812&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Mon, 08 Nov 2021 02:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[가온차트 (press@k-mca.or.kr)                                    <span>가온차트 <em>|</em> 2021-11-08</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/15DF5D32CE0F99BA3596F158BD286435.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
