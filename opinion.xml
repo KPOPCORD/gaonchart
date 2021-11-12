@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 07:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 08:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피지컬 앨범 한해 5천만 장 시대 도래 - 10월 리뷰 (2021)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19846&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19846&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Fri, 12 Nov 2021 08:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 10월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 1.1% 감소, 전년 동기 대비 13.5% 감소, 2019년 동기 대비 28.6% 감소한 것으로 나타났습니다.  10월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 5.1% 증가,  지난 2020년 10월에 비해서는 2.3% 감소한 것으로 조사되었습니다. 1월~10월까지 누적 TOP400기준 판매...<span>김진우 연구위원 <em>|</em> 2021-11-12</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/F0B21F42AD1304D63D762E8C7B2E5C57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝 음원은 왜 죄다 역주행일까?]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19740&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
             <content:encoded><![CDATA[2021년 상반기 음원 이용량 400(1위부터 400위까지 이용량 합계)이 전년 동기 대비 13.3%, 2019년에 비해서는 26.3% 감소한 것으로 조사되었습니다. 코로나19로 인한 음악 업계의 충격이  팬데믹 1년 차 보다 2년 차에 더욱 크게 작용한 것으로 나타났습니다.  NCT DREAM의 ′맛 (Hot Sauce) - The 1st Album′ 앨범이 약 200만 장의  판매고를 올리며  20...<span>김진우 수석연구위원 <em>|</em> 2021-07-09</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202107/E0B34F09F3692853E07B814DE79F82D8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 피지컬 앨범 시장 누가 주도하고 있나?]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19098&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19098&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 결산에서 리뷰 한 바와 같이 올해는 작년에 비해 피지컬 앨범 판매량이 이미 전년 동기 대비 6백만 장 가량 증가한 것으로 나타났습니다. 이번 카드 뉴스에서는 이와 같이 급증하고 있는 앨범 판매량을 어떤 가수가 주도하고 있는지 살펴보도록 하겠습니다.위 그래프는  2020년과 2021년 피지컬 앨범 판매량을 월별로 비교 한 것입니다.(400위 기준) 작년과 비교했을 때 올해 가장 큰 차이점은 월...<span>김진우 수석연구위원 <em>|</em> 2021-06-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/AFEBDC59C4CD48F269EFB4528FFD73D2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
