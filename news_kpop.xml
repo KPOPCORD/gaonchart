@@ -4,9 +4,17 @@
         <title>가온차트 ─ K-pop now</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 06:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 07:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LIM YOUNG WOONG, 5 Tops on Gaon Chart in October...]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19844&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19844&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Fri, 12 Nov 2021 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[On Gaon Chart in October, LIM YOUNG WOONG′Love Always Run Away′ took 5 No.1s, and Seventeen′s 9th Mini Album ′Attacca′topped the album chart. The Korea Music Content Association, whichoperates Gaon Chart said, “On the monthly ...<span>가온차트 <em>|</em> 2021-11-12</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/4AC8DC954FAD2D6F06E0B67495951E44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정동원, 12곡 꽉 찬 정규 앨범 트랙리스트 공개. “더블 타이틀 조영수 작사 작곡 눈...]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19843&amp;sgenre=kpop&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 Nov 2021 03:23:28 GMT</pubDate>
             <content:encoded><![CDATA[그룹 TO1(티오원)이 완성도 높은 퍼포먼스의 진수를 보여줬다.TO1(치훈, 동건, 찬, 지수, 민수, 재윤, 제이유, 경호, 제롬, 웅기)은 10일 0시 공식 유튜브 채널 및 SNS를 통해 두 번째 미니앨범 ‘RE_ALIZE (리_얼라이즈)’ 타이틀곡 ‘No More X (노 모어 엑스)’의 퍼포먼스 버전 뮤직비디오 영상을 공개했다. 이날 공개된 영상 속 TO1은 ‘No More X’ 뮤직비디오 촬영...<span>가온차트 <em>|</em> 2021-11-10</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/FAE966B13386F74F9786A39B0428615A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SEVENTEEN 9th Mini Album `Attacca`, Number One o...]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19828&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19828&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Wed, 10 Nov 2021 02:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN 9th Mini Album `Attacca` is thenumber one on Gaon monthly retail album chart for October.  SEVENTEEN 9th Mini Album `Attacca` wasreleased on October 22nd, 2021. It debuted at number one on the release week,43rd week ...<span>가온차트 <em>|</em> 2021-11-10</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/E0B4DB5102ABD0B9709396F42943341C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
