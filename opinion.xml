@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 02:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 03:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 팝시장 소비 현황 리뷰]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19943&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19943&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Mon, 29 Nov 2021 03:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[최근 방탄소년단이 ′AMA′ 3관왕 오르고  내년에 있을 ′그래미 어워드′에서는 2년 연속 ′베스트 팝 듀오/그룹 퍼포먼스′ 부문 후보에 노미네이트되는 등 KPOP이 미국 시장에서 선전하고 있습니다. 이 때문에 국내 음악 소비자들도 미국 팝시장에 대한 관심이 그 어느 때보다 높아졌는데요. 오늘 칼럼에서는 국내 팝 음원의 소비 현황에 대해 살펴보도록 하겠습니다.  팝(국외) 가온지수400 추이를 살펴보면...<span>김진우 수석연구위원 <em>|</em> 2021-11-29</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/98E7B869A589CA2C71F46A1B45E59C39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피지컬 앨범 한해 5천만 장 시대 도래 - 10월 리뷰 (2021)]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19846&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
             <content:encoded><![CDATA[2021년 6월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 0.5% 증가, 전년 동기 대비 6.3% 감소, 2019년 동기 대비 18.5% 감소한 것으로 나타났습니다.  ′카카오 엔터′가 400위 기준 6월 음원시장에서 유통 점유율 1위를 기록했습니다. 주요 유통 음원으로는 아이유의 ′라일락′, ′Celebrity′, 스테이씨의 ′ASAP′, 브레이브 걸스의 ′운전만해′, ′치맛바...<span>김진우 연구위원 <em>|</em> 2021-07-20</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202107/02F0B3276E28E09080E1819B6D2C7D86.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 리뷰 (First half of 2021 review)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19163&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19163&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 상반기 음원 이용량 400(1위부터 400위까지 이용량 합계)이 전년 동기 대비 13.3%, 2019년에 비해서는 26.3% 감소한 것으로 조사되었습니다. 코로나19로 인한 음악 업계의 충격이  팬데믹 1년 차 보다 2년 차에 더욱 크게 작용한 것으로 나타났습니다.  NCT DREAM의 ′맛 (Hot Sauce) - The 1st Album′ 앨범이 약 200만 장의  판매고를 올리며  20...<span>김진우 수석연구위원 <em>|</em> 2021-07-09</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202107/E0B34F09F3692853E07B814DE79F82D8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
