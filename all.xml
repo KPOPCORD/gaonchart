@@ -4,9 +4,44 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 13:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 02:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ 2022년 2월 18일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=145&amp;pageNo=1&amp;condition=&amp;searchStr</link>
+            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=145&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-18]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[ 2022년 1월 24일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=144&amp;pageNo=1&amp;condition=&amp;searchStr</link>
+            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=144&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[ 2022년 1월 21일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=143&amp;pageNo=1&amp;condition=&amp;searchStr</link>
+            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=143&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[ 2022년 1월 12일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=142&amp;pageNo=1&amp;condition=&amp;searchStr</link>
+            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=142&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[ 2022년 1월 3일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=140&amp;pageNo=1&amp;condition=&amp;searchStr</link>
+            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=140&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-03]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[ 2021년 12월 30일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
             <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=139&amp;pageNo=1&amp;condition=&amp;searchStr</link>
@@ -43,39 +78,28 @@
             <content:encoded><![CDATA[2021-12-09]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[ 2021년 11월 24일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=134&amp;pageNo=1&amp;condition=&amp;searchStr</link>
-            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=134&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
-            <pubDate>Wed, 24 Nov 2021 05:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-24]]></content:encoded>
+            <title><![CDATA[앨범 판매량 작년 1월보다 67% UP - 1월 리뷰(2022) (가온차트 ─ 칼럼)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20336&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20336&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 1월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 7.1% 감소, 전년 동기 대비 0.4% 증가한 것으로 나타났습니다.  1월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 5.4% 감소, 2021년 1월에 비해서는 66.9% 증가한 것으로 조사되었습니다.  카카오 엔터가 400위 기준 1월 음원시장에서 유통 점유율 1위를 기록했습니다. 주요 유통 음...<span>김진우 수석연구위원 <em>|</em> 2022-02-11</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/DE7E29A91B186421604584AA36CEA3BF.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[ 2021년 11월 8일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=133&amp;pageNo=1&amp;condition=&amp;searchStr</link>
-            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=133&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
-            <pubDate>Mon, 08 Nov 2021 02:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-08]]></content:encoded>
+            <title><![CDATA[쇼미더머니 10 전년대비 6% P 증가 - 12월 리뷰 (2021) (가온차트 ─ 칼럼)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20226&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20226&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 12월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 3.3% 증가, 전년 동기 대비 4.4% 감소, 2019년 동기 대비 28.1% 감소한 것으로 나타났습니다.  12월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 18.6% 감소, 2020년 12월에 비해서는 31.1% 증가한 것으로 조사되었습니다. 유럽 지역의 KP...<span>김진우 연구위원 <em>|</em> 2022-01-19</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/FB453FCF434275F5BAAA43CE95B11289.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[ 2021년 11월 3일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=132&amp;pageNo=1&amp;condition=&amp;searchStr</link>
-            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=132&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
-            <pubDate>Wed, 03 Nov 2021 02:01:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-03]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[ 2021년 11월 1일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=131&amp;pageNo=1&amp;condition=&amp;searchStr</link>
-            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=131&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
-            <pubDate>Mon, 01 Nov 2021 02:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-01]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[ 2021년 10월 21일 공지사항 ] (가온차트 ─ 공지사항)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=130&amp;pageNo=1&amp;condition=&amp;searchStr</link>
-            <guid>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=130&amp;pageNo=1&amp;condition=&amp;searchStr</guid>
-            <pubDate>Thu, 21 Oct 2021 02:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-21]]></content:encoded>
+            <title><![CDATA[2021 연간차트 리뷰 (Annual chart review) (가온차트 ─ 칼럼)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20183&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20183&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 연간 음원 이용량 400(1위부터 400위까지 음원 이용량의 합)은 2020년에 비해 10.3% 감소, 팬데믹 이전인 2019년에 비해서도 23.8% 감소한 것으로  나타났습니다. 2021년 연간 앨범 판매량 400은 전년 대비 36.9% 증가한 것으로 조사되었습니다. 카카오 엔터는 400위권 기준 37.2%의 음원 유통 점유율을 기록했으며 주요 음원으로는 아이유의 ′Celebrity′, ′...<span>김진우 수석연구위원 <em>|</em> 2022-01-12</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/2D2B43A29CCB7920FEDDD9D8802AC543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앨범 판매량 리뷰 (2021) (가온차트 ─ 칼럼)]]></title>
@@ -134,348 +158,380 @@
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202109/99D0C3D24F09BD24E3A5752CED6F7C21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KPOP은 정말 성장하고 있을까? (가온차트 ─ 칼럼)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19572&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19572&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Fri, 17 Dec 2021 08:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 과거에 발매되었던 피지컬 구보 판매량이 증가하고 있는데, 이는 신보 발매 후 구보 판매량이 함께 증가하는  ′Backward spillover′ 현상이 여러 가수들에게서 동시다발적으로 나타나고 있기 때문으로 보입니다. 이러한 현상은 새롭게 KPOP 아티스트를 알게 된 전 세계 팬덤들이 해당 아티스트의 구 앨범을 찾아 구매하는 것으로, KPOP 시장에 신규 팬덤이 지속적으로 유입될 경우 활발하게  ...<span>김진우 연구위원 <em>|</em> 2021-09-23</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202109/171EE677EECB28FDA4B59F33AB3E0AC9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[브랜뉴뮤직 차세대 보이그룹 YOUNITE(유나이트) 경문, 프롤로그 영상 공개…’라우드... (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20372&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20372&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[브랜뉴뮤직이 신인 보이그룹 ′YOUNITE(유나이트)′의 멤버 경문의 프롤로그 영상을 공개했다. 오늘(18일) 0시, 브랜뉴뮤직은 YOUNITE의 공식 SNS 채널들을 통해 멤버 경문의 프롤로그 영상을 공개했는데, 영상에서 경문은 초록빛 화초들, 그리고 양초가 가득한 따뜻한 분위기의 방을 배경으로 훈훈한 미소를 보여주며 눈길을 끌었다. 이어 세계 곳곳을 담은 사진들을 구경하다 여러 양초 중 초록색 양초...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/0BD6864F5833BAFA46D9D87DF416D695.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중국발 규제 조치와 KPOP - 8월 리뷰 (2021) (가온차트 ─ 칼럼)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19512&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19512&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 19:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 4% 감소, 전년 동기 대비 8.7% 감소, 2019년 동기 대비 21.7% 감소한 것으로 나타났습니다. 8월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 7.2% 증가, 지난 2020년 8월에 비해서는 130.3% 증가한 것으로 조사되었습니다. 8월 피지컬 앨범 판매량이 연중 두 번째로 높은 수치를...<span>김진우 연구위원 <em>|</em> 2021-09-09</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202109/ED8DC2C3B7551BCD7C21A55AD21DF368.png" length="0" type="image/png"/>
+            <title><![CDATA["결국 모두 집으로…" 아프로(APRO), 오늘(18일) 5th 월간 음원 프로젝트 '... (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20371&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20371&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 아프로(APRO)가 ′HoMe′으로 월간 음원 프로젝트의 감동을 이어간다.18일 오후 6시 각종 온라인 음원 사이트를 통해 아프로의 월간 음원 ′Avenue (애비뉴)′의 다섯 번째 프로젝트이자 새 앨범 ′Ave. HoMe (Feat. 오존 (O3ohn))′이 발매된다.′HoMe′은 아프로가 전체 프로듀싱과 작곡, 편곡, 드럼, 퍼커션, 신스를 맡고, 오존이 작사와 작곡으로 참여한 곡이다. ″...<span>가온차트  <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/AAB2F84CCDDAA77A2C377FFC39789402.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국, 미국 CD 시장 규모 역전 (가온차트 ─ 칼럼)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19406&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19406&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 19:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 한국과 미국의 CD 시장 판매량 규모가 역전된 것으로 나타났습니다. 매년 성장하는 우리나라와는 정 반대로 미국의 CD 판매량은 지속적인 감소세를 보이고 있습니다. 한편,  미국 시장에서 LP/EP 판매량은 계속해서 증가하고 있는 있는데, 특히 팬데믹 이후 LP/EP 포맷의 피지컬 앨범 판매량이 예년에 비해 많이 증가한 것으로 나타났습니다. 2020년 미국 피지컬 CD 시장 규모는 총 3천1백 6...<span>김진우 연구위원 <em>|</em> 2021-08-23</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202108/DFBE773B39CBCDC1F1B1B92D5730EC05.png" length="0" type="image/png"/>
+            <title><![CDATA[김희재, 오는 3월 앵콜 공연 '그리고 별, 그대' 개최. "오늘 18일 티켓 오픈" (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20370&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20370&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김희재가 ′그리고 별, 그대′로 전국 팬콘서트의 대미를 장식한다.김희재의 팬콘서트 서울 앵콜 공연 ′그리고 별, 그대′가 오는 3월 11일부터 13일까지 3일간 서울 블루스퀘어 마스터카드홀에서 열린다. 앞서 김희재는 지난해 10월부터 첫 번째 팬콘서트 ′별, 그대′ 서울 공연을 시작으로 부산, 울산, 대구, 성남 등 전국 각지의 팬들을 만났다.그동안 팬들이 보내준 사랑에 보답하기 위해 마련된 ′그...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/1A2C3B9672DBEE9C9FF697E1F6E277DA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['언프리티 랩스타2' 출신 캐스퍼, 밴드 노슬립클럽 결성…1월 5일 첫 싱글 앨범 '... (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20110&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20110&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 캐스퍼(KASPER)가 밴드 노슬립클럽(NSC)으로 새로운 활동을 시작한다.  30일 소속사 메이저나인은 ″캐스퍼가 김성주, 김석열, 김건우와 함께 밴드 노슬립클럽을 결성해 ′보컬 부캐′ 이세린으로 새 출발에 나선다″고 밝혔다.  이에 앞서 소속사는 공식 SNS를 통해 노슬립클럽의 첫 싱글 앨범 발매 소식을 알리는 커밍순 이미지를 공개했다. 이미지에는 마치 동화 속에 존재하는 듯한 건물 앞에 구름...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/C890F394087389A9A8D3140DF49FC81A.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['28일 컴백' 슈퍼주니어, 동해·이특·예성 티저 공개…포근한 감성에 스페셜 싱글 ... (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20369&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20369&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[′K-POP 레전드′ 슈퍼주니어가 동해, 이특, 예성의 티저로 새 앨범의 분위기를 예고했다.슈퍼주니어는 지난 17일과 18일 공식 SNS를 통해 스페셜 싱글 앨범 ′The Road _ Winter for Spring (더 로드 _ 윈터 포 스프링)′의 동해, 이특, 예성 버전 이미지 티저와 ′Callin′ (콜린)′의 첫 번째 뮤직비디오 티저 영상을 공개했다.먼저 이미지 티저 속 동해, 이특, 예성은 ...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/CA0665A944658096828BCF9D6DEEFE7D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MC몽, 오늘(30일) 새 앨범 'Dark Hole' 발매+단독 콘서트 개최...데뷔... (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20109&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20109&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[가수 MC몽이 데뷔 20주년 기념 앨범으로 돌아온다. MC몽은 30일 오후 6시 각종 온라인 음원 사이트를 통해 데뷔 20주년 기념 앨범 ′Dark Hole (다크 홀)′을 발매한다.  이와 함께 지난 29일 공식 SNS를 통해 수록곡 ′죽도록 사랑해(Feat. 백아연)′ 프리뷰 영상을 공개했다. 해당 영상에선 MC몽과 백아연의 시너지가 돋보여 완곡에 대한 기대감을 높인다. MC몽의 신보는 지난 3월 ...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/0689B369A233055480F78A8A8D23BE68.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘컴백’ 위클리, 새 싱글앨범 발매 앞서 ‘프롤로그 필름’ 공개... 독창적 세계관 소... (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20368&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20368&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[오는 7일 컴백을 앞둔 걸그룹 위클리(Weeekly)가 프롤로그 필름으로 확장된 세계관을 예고했다.IST엔터테인먼트 측은 18일 0시 위클리 공식 SNS 및 유튜브 채널 등지를 통해 첫 번째 싱글앨범 ‘Play Game _ AWAKE(플레이 게임 _ 어웨이크)’의 세계관을 담은 ‘PROLOGUE(프롤로그)’ 필름을 공개해 K팝 팬들의 이목을 집중시켰다.공개된 2분 30초 가량의 영상에서는 신비롭고 웅장...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/90FA22171BDE5D6D3233DB57FF153D96.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[프로미스나인, 1월 17일 미니 4집 ‘Midnight Guest’ 발매…초고속 컴백 (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20108&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20108&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 프로미스나인(이새롬, 송하영, 장규리, 박지원, 노지선, 이서연, 이채영, 이나경, 백지헌)이 오는 1월 17일 ‘Midnight Guest’가 되어 리스너들의 밤을 찾아간다.프로미스나인은 오늘(30일) 0시 공식 유튜브 채널을 통해 오는 1월 17일 발매되는 미니 4집 ‘Midnight Guest’(미드나잇 게스트)의 콘셉트 트레일러 영상을 공개했다.콘셉트 트레일러 영상은 어둠이 짙게 깔린 밤,...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/413D983CC1317E9628B9A1EC64408F29.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘러블리 몽환 에너제틱’ 체리블렛, 3월 2일 신곡 ‘Love In Space’로 컴백... (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20367&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20367&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[체리블렛의 소속사 FNC W는 지난 17일 체리블렛 공식 SNS를 통해 미니 2집 ‘Cherry Wish’의 타이틀 포스터를 공개했다.  공개된 포스터 속 체리블렛이 서로의 눈을 가린 채 앉아있는 모습이 눈길을 끈다. 눈이 가려진 체리블렛은 무언가 꿈을 꾸는 듯한 모습을 연상케 해 궁금증을 증폭시키고 있다. 이번 앨범을 통해 기존의 ‘러블리 에너제틱’에서 한층 더 성숙해진 ‘러블리 몽환 에너제틱’을 보...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/1BB4B4844B26EDC760283FE0CF311C4E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘1월 10일 컴백’ 올라운더 김요한, 솔로 앨범 ‘Illusion’ 올화이트 시크美... (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20107&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20107&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[올라운더 김요한이 순백의 비주얼로 새 앨범의 기대감을 높였다.김요한은 30일 0시 공식 SNS를 통해 솔로 미니앨범 ‘Illusion (일루전)’의 ‘Chic ? B’ 버전의 콘셉트 포토를 공개했다.차례로 공개된 네 장의 이미지 속 김요한은 올화이트 스타일링으로 순백의 아우라를 드러내며 단숨에 시선을 장악했다. 특히 화이트 컬러감은 흑발과 짙은 눈썹, 진한 이목구비와 뚜렷한 대비를 이루며 김요한의 완성...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/BBF86C60F3A071A2534D4534BB7B9ADA.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘유니크 신예’ CHE, 오늘(18일) 정규 1집 선공개 싱글 'Poison (Feat... (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20366&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20366&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 아이덴티티의 가수 CHE가 첫 정규앨범 발매에 앞서 선공개 싱글을 발표한다.CHE는 18일 오후 6시 각종 온라인 음원사이트를 통해 정규 1집 선공개 싱글 ‘Poison (Feat. 키드밀리)’을 발매한다. 지난 17일에는 공식 SNS를 통해 콘셉트 포토를 기습 공개하며, 선공개 싱글 발매 소식을 알렸다.′Poison′은 오는 3월 발매 예정인 CHE의 데뷔 첫 정규앨범의 선공개곡이자, 지난해...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/DAC11E7FA9BEEF0A086102B48F15BF80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[규현, 오늘(30일) 박형식·한소희 주연 '사운드트랙#1' 첫 음원 '사랑은 말로 ... (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20106&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20106&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[규현은 30일 오후 6시 각종 온라인 음원 사이트를 통해 ′사운드트랙#1′의 첫 번째 음원 ′사랑은 말로 표현하는게 아니래요′를 발매한다. ′사랑은 말로 표현하는게 아니래요′는 전상근 ′사랑이란 멜로는 없어′, 적재 ′나랑 같이 걸을래′, 백지영 ′거짓말이라도 해서 널 보고싶어′ 등 여러 히트곡을 탄생시킨 프로듀서 DOKO(도코)가 참여해 규현과 첫 호흡을 맞췄다.  이번 곡은 감미로운 멜로디, 한 편...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/F6F4AEC0375FFF02B3536E40A8C718CC.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[원호, 'EYE ON YOU' 활동 본격 시동...오늘(17일) '엠카운트다운' 출격 (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20365&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20365&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[가수 원호(WONHO)가 ′엠카운트다운′을 시작으로 본격적인 컴백 활동에 나선다.원호는 17일 Mnet ′엠카운트다운′에 출연해 첫 싱글 ′옵세션(OBSESSION)′의 타이틀곡 ′아이 온 유(EYE ON YOU)′로 컴백 무대를 처음으로 선보인다. ′아이 온 유′는 원호의 절제된 보컬과 다크하고 파워풀한 무드를 자아내는 풍성한 사운드, 치명적인 가사가 어우러져 묘하게 피어나는 섹시미가 인상적인 곡이다...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/E8D39A4D619C9308F8FD2C82844F66DB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정동하, 오늘(30일) 네이버웹툰 '금혼령' 컬래버 음원 발매…짙은 남성미로 노래한 '... (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20105&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20105&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[가수 정동하가 짙은 감성을 담은 록 발라드를 선보인다. 30일 오후 6시 각종 온라인 음원 사이트를 통해 정동하와 네이버웹툰 ′금혼령′의 컬래버레이션 음원 ′사랑과 이별 사이′가 발매된다. ′사랑과 이별 사이′는 1990년대의 향수를 느끼게 하는 록 발라드 곡이다. 서정적이고 웅장한 스트링과 일렉기타 사운드가 곡의 전반을 아우르는 가운데 정동하가 남성미 넘치는 보컬로 록 발라드 특유의 매력을 담아내 강...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/FAF489DD918BE515D5E2E3BC06876635.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['28일 컴백' 로켓펀치, 타이틀곡은 'CHIQUITA'…시크 당당 에너지+역대급 퍼포... (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20364&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20364&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 로켓펀치(Rocket Punch, 연희 쥬리 수윤 윤경 소희 다현)가 시크하고 당당한 에너지와 역대급 퍼포먼스로 완전무장했다. 소속사 울림엔터테인먼트는 지난 16일 오후 6시 공식 SNS 및 유튜브 채널을 통해 로켓펀치의 ′′치키타′ 론칭 _ 퍼스트 뷰(′CHIQUITA′ Launching _ First View)′를 공개했다. 해당 영상은 로켓펀치 네 번째 미니 앨범 ′옐로 펀치(YELLOW P...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/3D1EB83AB0B68D8524135AB758D3F432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['내일은 국민가수' TOP10, 2월 26일 전국투어 콘서트 개최…30일 오후 8시 티... (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20104&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20104&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[′내일은 국민가수′ TOP10이 전국투어 콘서트 티켓 예매를 시작한다.TV CHOSUN 글로벌 K-POP 오디션 ′내일은 국민가수(이하 ′국민가수′)′의 TOP10 박창근, 김동현, 이솔로몬, 박장현, 이병찬, 고은성, 손진욱, 조연호, 김희석, 김영흠은 오는 2월 26일 서울 공연을 시작으로 ′2022년 내일은 국민가수 전국투어 콘서트′를 개최한다.이번 전국투어 콘서트는 ′국민가수′ 종영 이후 선보이...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/3BAAAB1BF6AF65940689ECC61A24E6A4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['대세 프로듀서' 아프로, 18일 월간 음원 프로젝트 'HoMe' 발매…오존 지원사격 (가온차트 ─ 뉴스)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20363&amp;sgenre=news&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20363&amp;sgenre=news&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 아프로(APRO)가 다섯 번째 월간 음원 프로젝트로 ′HoMe′을 준비했다.아프로는 오는 18일 오후 6시 각종 온라인 음원 사이트를 통해 월간 음원 ′Avenue (애비뉴)′의 다섯 번째 프로젝트로 새 앨범 ′Ave. HoMe (Feat. 오존 (O3ohn))′을 발매한다.지난해 ′송곳니 (Feat. 유라 (youra), pH-1)′, ′고군분투 (Feat. 개코, 페노메코)′, ′4.2 (...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/951198FCE8E6FAADB0850C1C138D635C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[휘인, 미니 2집 'WHEE' 트랙리스트 공개...타이틀곡은 '오묘해' (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20103&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20103&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[가수 휘인(Whee In)이 두 번째 미니 앨범 트랙리스트를 공개하며 컴백 열기를 끌어올렸다. 소속사 더 라이브는 지난 29일 오후 6시 공식 SNS를 통해 휘인의 두 번째 미니 앨범 ′휘(WHEE)′의 트랙리스트를 공개했다. 공개된 트랙리스트에 따르면 이번 앨범에는 타이틀곡 ′오묘해′를 비롯해 ′핑크 클라우드(Pink Cloud)′, ′레터 필드 위드 라이트(Letter Filled with Ligh...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/D8B5C4CE91CE3567AB174431E3502202.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["결국 모두 집으로…" 아프로(APRO), 오늘(18일) 5th 월간 음원 프로젝트 '... (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20371&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20371&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 아프로(APRO)가 ′HoMe′으로 월간 음원 프로젝트의 감동을 이어간다.18일 오후 6시 각종 온라인 음원 사이트를 통해 아프로의 월간 음원 ′Avenue (애비뉴)′의 다섯 번째 프로젝트이자 새 앨범 ′Ave. HoMe (Feat. 오존 (O3ohn))′이 발매된다.′HoMe′은 아프로가 전체 프로듀싱과 작곡, 편곡, 드럼, 퍼커션, 신스를 맡고, 오존이 작사와 작곡으로 참여한 곡이다. ″...<span>가온차트  <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/AAB2F84CCDDAA77A2C377FFC39789402.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싱어송라이터 도코(DOKO), 1월 1일 새 솔로 싱글 ‘날 사랑하지 말아요’ 발매 (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20102&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20102&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Wed, 29 Dec 2021 02:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 도코(DOKO)가 새해 첫날 신곡을 들고 돌아온다.도코는 내년 1월 1일 오후 6시 전 온라인 음원사이트를 통해 새 디지털 싱글 ‘날 사랑하지 말아요’를 발매한다.지난 2018년 12월 발매한 싱글 ‘오늘 종일 같이 있어요’ 이후 도코가 3년여 만에 공개하는 단독 신보 ‘날 사랑하지 말아요’는 도코만의 꾹꾹 눌러 담긴 감성이 돋보이는 애절한 발라드곡이다.도코의 파트너이자 대세 프로듀서로 주...<span>가온차트 <em>|</em> 2021-12-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/51CA2143469CD82D69C753983626B39E.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘유니크 신예’ CHE, 오늘(18일) 정규 1집 선공개 싱글 'Poison (Feat... (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20366&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20366&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 아이덴티티의 가수 CHE가 첫 정규앨범 발매에 앞서 선공개 싱글을 발표한다.CHE는 18일 오후 6시 각종 온라인 음원사이트를 통해 정규 1집 선공개 싱글 ‘Poison (Feat. 키드밀리)’을 발매한다. 지난 17일에는 공식 SNS를 통해 콘셉트 포토를 기습 공개하며, 선공개 싱글 발매 소식을 알렸다.′Poison′은 오는 3월 발매 예정인 CHE의 데뷔 첫 정규앨범의 선공개곡이자, 지난해...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/DAC11E7FA9BEEF0A086102B48F15BF80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피원하모니, 새앨범 트랙비디오 ‘Follow Me’ 공개..‘색다른 매력’ (가온차트 ─ 뉴스)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20101&amp;sgenre=news&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20101&amp;sgenre=news&amp;search_str=</guid>
-            <pubDate>Wed, 29 Dec 2021 02:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 수록곡 안무를 담은 트랙비디오를 공개하며 색다른 매력을 발산한다.  피원하모니의 소속사 FNC엔터테인먼트는 28일 공식 SNS를 통해 미니 3집 ‘DISHARMONY _ FIND OUT’의 두 번째 P-SIDE 트랙비디오 ‘Follow Me’를 공개했다.  ‘P-SIDE 트랙비디오’는 수록곡을 뜻하는 B-side의 B를 P(Plus...<span>가온차트 <em>|</em> 2021-12-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/730CE1DB0F33F75C043BAA2225608134.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['대세 프로듀서' 아프로, 18일 월간 음원 프로젝트 'HoMe' 발매…오존 지원사격 (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20363&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20363&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 아프로(APRO)가 다섯 번째 월간 음원 프로젝트로 ′HoMe′을 준비했다.아프로는 오는 18일 오후 6시 각종 온라인 음원 사이트를 통해 월간 음원 ′Avenue (애비뉴)′의 다섯 번째 프로젝트로 새 앨범 ′Ave. HoMe (Feat. 오존 (O3ohn))′을 발매한다.지난해 ′송곳니 (Feat. 유라 (youra), pH-1)′, ′고군분투 (Feat. 개코, 페노메코)′, ′4.2 (...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/951198FCE8E6FAADB0850C1C138D635C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['언프리티 랩스타2' 출신 캐스퍼, 밴드 노슬립클럽 결성…1월 5일 첫 싱글 앨범 '... (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20110&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20110&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 캐스퍼(KASPER)가 밴드 노슬립클럽(NSC)으로 새로운 활동을 시작한다.  30일 소속사 메이저나인은 ″캐스퍼가 김성주, 김석열, 김건우와 함께 밴드 노슬립클럽을 결성해 ′보컬 부캐′ 이세린으로 새 출발에 나선다″고 밝혔다.  이에 앞서 소속사는 공식 SNS를 통해 노슬립클럽의 첫 싱글 앨범 발매 소식을 알리는 커밍순 이미지를 공개했다. 이미지에는 마치 동화 속에 존재하는 듯한 건물 앞에 구름...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/C890F394087389A9A8D3140DF49FC81A.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’, 오늘(17일) 함병선 참여 OST P... (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20362&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20362&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[위아더나잇(We Are The Night)의 보컬 함병선(9z)이 티빙 오리지널 드라마 ‘아직 최선을 다하지 않았을 뿐’ OST의 첫 번째 주자로 나선다.함병선(9z)이 참여한 OTT 플랫폼 티빙 오리지널 드라마 ‘아직 최선을 다하지 않았을 뿐 (연출 임태우 / 극본 박희권?박은영 / 제작 하우픽쳐스?메가박스중앙㈜플러스엠?호두앤유픽쳐스? JTBC스튜디오) (이하 ‘아직 최선’)’의 첫 번째 OST ‘S...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/454227D89E4FC9A1EF0C65D76CBA8155.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MC몽, 오늘(30일) 새 앨범 'Dark Hole' 발매+단독 콘서트 개최...데뷔... (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20109&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20109&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[가수 MC몽이 데뷔 20주년 기념 앨범으로 돌아온다. MC몽은 30일 오후 6시 각종 온라인 음원 사이트를 통해 데뷔 20주년 기념 앨범 ′Dark Hole (다크 홀)′을 발매한다.  이와 함께 지난 29일 공식 SNS를 통해 수록곡 ′죽도록 사랑해(Feat. 백아연)′ 프리뷰 영상을 공개했다. 해당 영상에선 MC몽과 백아연의 시너지가 돋보여 완곡에 대한 기대감을 높인다. MC몽의 신보는 지난 3월 ...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/0689B369A233055480F78A8A8D23BE68.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 도영, 22일 '사운드트랙#1' 일곱 번째 음원 발매…재녹음 자청한 열정 '기... (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20361&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20361&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 NCT 멤버 도영이 뮤직 드라마 ′사운드트랙#1′ 음원 라인업에 합류한다.도영은 오는 22일 오후 6시 디즈니+ 로맨스 뮤직드라마 ′사운드트랙#1′의 일곱 번째 음원 ′아주 조금만 더′를 발매한다.′아주 조금만 더′는 헤어질 걸 알면서도 조금만 더 같이 있고 싶어 하는 마음을 표현한 곡이다. 도영의 매력적인 음색과 섬세한 감성이 ′아주 조금만 더′ 속 화자의 간절한 심정을 더욱 와닿게 그려냈다.특...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/22E7EE2F73719BEC4DB058F8DA603572.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프로미스나인, 1월 17일 미니 4집 ‘Midnight Guest’ 발매…초고속 컴백 (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20108&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20108&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 프로미스나인(이새롬, 송하영, 장규리, 박지원, 노지선, 이서연, 이채영, 이나경, 백지헌)이 오는 1월 17일 ‘Midnight Guest’가 되어 리스너들의 밤을 찾아간다.프로미스나인은 오늘(30일) 0시 공식 유튜브 채널을 통해 오는 1월 17일 발매되는 미니 4집 ‘Midnight Guest’(미드나잇 게스트)의 콘셉트 트레일러 영상을 공개했다.콘셉트 트레일러 영상은 어둠이 짙게 깔린 밤,...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/413D983CC1317E9628B9A1EC64408F29.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[디에이드, 네이버 시리즈 웹툰 '쌈 마이웨이' 두 번째 OST 주자…20일 '네 번째 ... (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20360&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20360&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[가수 디에이드(The Ade)가 네이버 시리즈 웹툰 ′쌈 마이웨이′ OST의 두 번째 가창자로 나선다.  디에이드는 오는 20일 네이버 시리즈에서 많은 사랑을 받고 있는 웹툰 ′쌈 마이웨이′의 두 번째 OST ′네 번째 봄′을 발매한다.  ′네 번째 봄′은 남자 주인공 고동만(박서준)과 여자 주인공 최애라(김지원)가 서로에 대한 감정을 느끼며 친구 이상의 마음을 표현한 곡이다. 디에이드의 김규년이 직접...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/C3C14459D447453C5AADC6069A73680A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[규현, 오늘(30일) 박형식·한소희 주연 '사운드트랙#1' 첫 음원 '사랑은 말로 ... (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20106&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20106&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[규현은 30일 오후 6시 각종 온라인 음원 사이트를 통해 ′사운드트랙#1′의 첫 번째 음원 ′사랑은 말로 표현하는게 아니래요′를 발매한다. ′사랑은 말로 표현하는게 아니래요′는 전상근 ′사랑이란 멜로는 없어′, 적재 ′나랑 같이 걸을래′, 백지영 ′거짓말이라도 해서 널 보고싶어′ 등 여러 히트곡을 탄생시킨 프로듀서 DOKO(도코)가 참여해 규현과 첫 호흡을 맞췄다.  이번 곡은 감미로운 멜로디, 한 편...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/F6F4AEC0375FFF02B3536E40A8C718CC.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[왓챠 오리지널 드라마 '시맨틱 에러', 오늘(16일) 콜딘 참여한 메인 테마곡 '로맨틱... (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20358&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20358&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[왓챠 오리지널 드라마 ′시맨틱 에러′의 메인 테마곡이 16일 발매된다. ′시맨틱 에러′(극본 제이선, 연출 김수정, 원작 저수리)는 리디북스에서 폭발적인 팬덤을 보유한 BL 장르의 웹소설/웹툰을 원작으로 한 드라마로, 컴퓨터공학과 아웃사이더 추상우(박재찬 분)와 그의 완벽하게 짜인 일상에 에러처럼 나타난 디자인과 인사이더 장재영(박서함 분)의 이야기를 그리는 캠퍼스 로맨스다. 이날 오후 왓챠(Watch...<span>가온차트 <em>|</em> 2022-02-16</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/9093AD446DFD2ED208524C8FE77657FB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정동하, 오늘(30일) 네이버웹툰 '금혼령' 컬래버 음원 발매…짙은 남성미로 노래한 '... (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20105&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20105&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[가수 정동하가 짙은 감성을 담은 록 발라드를 선보인다. 30일 오후 6시 각종 온라인 음원 사이트를 통해 정동하와 네이버웹툰 ′금혼령′의 컬래버레이션 음원 ′사랑과 이별 사이′가 발매된다. ′사랑과 이별 사이′는 1990년대의 향수를 느끼게 하는 록 발라드 곡이다. 서정적이고 웅장한 스트링과 일렉기타 사운드가 곡의 전반을 아우르는 가운데 정동하가 남성미 넘치는 보컬로 록 발라드 특유의 매력을 담아내 강...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/FAF489DD918BE515D5E2E3BC06876635.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MSG워너비 M.O.M, 2022년 다시 뭉쳤다! 26일 새 싱글 ‘듣고 싶을까’로 컴... (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20357&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20357&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[‘바라만 본다’로 2021년 음원 차트를 뜨겁게 달군 MSG워너비 M.O.M(이하 M.O.M)이 신곡과 함께 돌아온다.M.O.M(별루지, 강창모, 박재정, 원슈타인)은 오는 26일 오후 6시 새 디지털 싱글 ‘듣고 싶을까’를 발매한다.‘듣고 싶을까’는 지난해 6월 발매된 MSG워너비 1집 ‘바라만 본다’ 이후 약 8개월 만에 M.O.M 멤버 4인이 다시 뭉쳐 선보이는 신곡이다. 작곡가 박근태와 김도훈이...<span>가온차트  <em>|</em> 2022-02-16</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/FEC3FFCEB349270D81F53DE449B353C4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싱어송라이터 도코(DOKO), 1월 1일 새 솔로 싱글 ‘날 사랑하지 말아요’ 발매 (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20102&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20102&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Wed, 29 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 도코(DOKO)가 새해 첫날 신곡을 들고 돌아온다.도코는 내년 1월 1일 오후 6시 전 온라인 음원사이트를 통해 새 디지털 싱글 ‘날 사랑하지 말아요’를 발매한다.지난 2018년 12월 발매한 싱글 ‘오늘 종일 같이 있어요’ 이후 도코가 3년여 만에 공개하는 단독 신보 ‘날 사랑하지 말아요’는 도코만의 꾹꾹 눌러 담긴 감성이 돋보이는 애절한 발라드곡이다.도코의 파트너이자 대세 프로듀서로 주...<span>가온차트 <em>|</em> 2021-12-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/51CA2143469CD82D69C753983626B39E.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[싱어송라이터 하현상, 디즈니+ ‘너와 나의 경찰수업’ OST ‘My Sunlight’ ... (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20356&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20356&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[가수 하현상이 디즈니+ 오리지널 시리즈 ‘너와 나의 경찰수업’의 OST에 참여했다.하현상이 참여한 ‘너와 나의 경찰수업’의 세 번째 OST ‘My Sunlight’가 오늘 16일 오후 6시 발매된다. ‘My Sunlight’는 브리티쉬 록 스타일의 곡으로, 너의 빛이 내 사랑을 성장시킨다는 내용을 노래한다.도입부부터 나오는 빈티지한 밴드 사운드와 정제된 보컬이 돋보이는 이 곡은 몽환적이고 서정적인 멜로...<span>가온차트 <em>|</em> 2022-02-16</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/4FD1D941AB8FCBCAE41E9DB537AD92FE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네이처 소희, 얼라이븐 싱글 '바보같은 말' 피처링 참여…오늘(29일) 발매 (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20100&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20100&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Wed, 29 Dec 2021 02:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 NATURE(네이처) 소희가 프로듀서 그룹 얼라이븐(Aliven)을 지원사격했다.   소희는 29일 오후 6시 발매되는 얼라이븐의 두 번째 싱글 앨범 ′바보같은 말′에 피처링으로 참여했다. ′바보같은 말′은 시티팝 기반의 어반 팝 장르의 곡으로, 꿈을 향해 걸어가고 있는 사람들의 성장 그리고 마음의 변화에 대한 메시지를 1인칭 시점으로 써 내려간 가사가 인상적이다. 여기에 소희의 감성적인 보컬이 ...<span>가온차트 <em>|</em> 2021-12-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/D3813B2A97D78E264DF2F1F21CB3D064.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[차은우, 음원 기습 발매 예고! '포근함X따뜻함' 가득한 이미지로 궁금증 UP (가온차트 ─ 앨범)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20355&amp;sgenre=album&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20355&amp;sgenre=album&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아스트로 멤버 차은우가 카카오페이지 ′악녀는 마리오네트′의 OST를 선보인다. 소속사 판타지오는 16일 차은우의 새로운 이미지와 함께 깜짝 발매 소식을 전하며 팬들을 설레게 했다. 공개된 이미지 속 차은우는 화이트 니트 스타일로 포근하고 따뜻한 무드를 자아냈다. 이는 현실판 ′만찢남′(만화를 찢고 나온 남자) 차은우와 ′악녀는 마리오네트′의 시너지를 더욱 기대하게 만든다. 카카오페이지 ′악녀는 마...<span>가온차트 <em>|</em> 2022-02-16</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/D274CFF57C2B312ABDDBC0E5011D5DDE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘이영애 주연’ JTBC ‘구경이’, 오늘(28일) OST 음반 정식 발매! 24개 ... (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20095&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20095&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Tue, 28 Dec 2021 04:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC 토일드라마 ‘구경이’의 웰메이드 OST를 음반으로 만난다.최근 종영한 JTBC 토일드라마 ‘구경이’의 적재적소에 삽입돼 극의 몰입감을 높이며 큰 호평을 받았던 ‘구경이’의 OST 음반이 28일부터 정식 판매된다. 이에 앞서 지난 15일 각종 음반 사이트를 통해 예약 판매를 시작하며 시청자들의 기대감을 높였다.미스터리와 코미디를 넘나드는 유니크한 무드, 이영애의 파격 변신으로 주목받은 ‘구경이’...<span>가온차트 <em>|</em> 2021-12-28</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/2DA8EED639519A7531270C4DD95F9E62.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[브랜뉴뮤직 차세대 보이그룹 YOUNITE(유나이트) 경문, 프롤로그 영상 공개…’라우드... (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20372&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20372&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[브랜뉴뮤직이 신인 보이그룹 ′YOUNITE(유나이트)′의 멤버 경문의 프롤로그 영상을 공개했다. 오늘(18일) 0시, 브랜뉴뮤직은 YOUNITE의 공식 SNS 채널들을 통해 멤버 경문의 프롤로그 영상을 공개했는데, 영상에서 경문은 초록빛 화초들, 그리고 양초가 가득한 따뜻한 분위기의 방을 배경으로 훈훈한 미소를 보여주며 눈길을 끌었다. 이어 세계 곳곳을 담은 사진들을 구경하다 여러 양초 중 초록색 양초...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/0BD6864F5833BAFA46D9D87DF416D695.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정동하, 30일 네이버웹툰 '금혼령' 컬래버 음원 '사랑과 이별 사이' 발매…록 발라드... (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20089&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20089&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Tue, 28 Dec 2021 03:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[가수 정동하가 네이버웹툰 ′금혼령′과 음원 컬래버레이션을 펼친다. 28일 TOON STUDIO는 ″정동하와 네이버웹툰 ′금혼령′의 컬래버레이션 음원 ′사랑과 이별 사이′가 오는 30일 발매된다″라고 밝혔다. ′사랑과 이별 사이′는 ′금혼령′의 서브 남자 주인공 이신원의 테마곡이다. 소랑을 사랑하지만 그녀와 이헌의 사랑을 위해 떠나보내야만 하는 신원의 심정을 슬프지만 아름답게 담아냈다. 국내 최고의 록 ...<span>가온차트 <em>|</em> 2021-12-28</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/4AFC1E00CA2AF07986681E78DC5D855E.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['28일 컴백' 슈퍼주니어, 동해·이특·예성 티저 공개…포근한 감성에 스페셜 싱글 ... (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20369&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20369&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[′K-POP 레전드′ 슈퍼주니어가 동해, 이특, 예성의 티저로 새 앨범의 분위기를 예고했다.슈퍼주니어는 지난 17일과 18일 공식 SNS를 통해 스페셜 싱글 앨범 ′The Road _ Winter for Spring (더 로드 _ 윈터 포 스프링)′의 동해, 이특, 예성 버전 이미지 티저와 ′Callin′ (콜린)′의 첫 번째 뮤직비디오 티저 영상을 공개했다.먼저 이미지 티저 속 동해, 이특, 예성은 ...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/CA0665A944658096828BCF9D6DEEFE7D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 뷔, ‘그 해 우리는’ OST ‘Christmas Tree’ 오늘 24일 발... (가온차트 ─ 앨범)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20081&amp;sgenre=album&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20081&amp;sgenre=album&amp;search_str=</guid>
-            <pubDate>Fri, 24 Dec 2021 03:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 뷔가 SBS 월화드라마 ‘그 해 우리는’의 OST에 참여했다.뷔가 참여한 ‘그 해 우리는’의 다섯 번째 OST ‘Christmas Tree’가 오늘 24일 오후 6시 발매된다. ‘Christmas Tree’는 부드러운 어쿠스틱 기타 선율 위에 낮고 감미롭게 읊조리는 뷔의 목소리가 인상적인 곡으로, 미니멀한 악기 구성이 뷔의 음색과 감성을 더욱 돋보이게 만든다.특히 이 곡은 1화에서 최웅(최우...<span>가온차트 <em>|</em> 2021-12-24</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/4E79BDAA96B46B37FFACC2CA11532BEB.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘컴백’ 위클리, 새 싱글앨범 발매 앞서 ‘프롤로그 필름’ 공개... 독창적 세계관 소... (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20368&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20368&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[오는 7일 컴백을 앞둔 걸그룹 위클리(Weeekly)가 프롤로그 필름으로 확장된 세계관을 예고했다.IST엔터테인먼트 측은 18일 0시 위클리 공식 SNS 및 유튜브 채널 등지를 통해 첫 번째 싱글앨범 ‘Play Game _ AWAKE(플레이 게임 _ 어웨이크)’의 세계관을 담은 ‘PROLOGUE(프롤로그)’ 필름을 공개해 K팝 팬들의 이목을 집중시켰다.공개된 2분 30초 가량의 영상에서는 신비롭고 웅장...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/90FA22171BDE5D6D3233DB57FF153D96.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[‘1월 10일 컴백’ 올라운더 김요한, 솔로 앨범 ‘Illusion’ 올화이트 시크美... (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20107&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20107&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[올라운더 김요한이 순백의 비주얼로 새 앨범의 기대감을 높였다.김요한은 30일 0시 공식 SNS를 통해 솔로 미니앨범 ‘Illusion (일루전)’의 ‘Chic ? B’ 버전의 콘셉트 포토를 공개했다.차례로 공개된 네 장의 이미지 속 김요한은 올화이트 스타일링으로 순백의 아우라를 드러내며 단숨에 시선을 장악했다. 특히 화이트 컬러감은 흑발과 짙은 눈썹, 진한 이목구비와 뚜렷한 대비를 이루며 김요한의 완성...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/BBF86C60F3A071A2534D4534BB7B9ADA.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘러블리 몽환 에너제틱’ 체리블렛, 3월 2일 신곡 ‘Love In Space’로 컴백... (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20367&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20367&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[체리블렛의 소속사 FNC W는 지난 17일 체리블렛 공식 SNS를 통해 미니 2집 ‘Cherry Wish’의 타이틀 포스터를 공개했다.  공개된 포스터 속 체리블렛이 서로의 눈을 가린 채 앉아있는 모습이 눈길을 끈다. 눈이 가려진 체리블렛은 무언가 꿈을 꾸는 듯한 모습을 연상케 해 궁금증을 증폭시키고 있다. 이번 앨범을 통해 기존의 ‘러블리 에너제틱’에서 한층 더 성숙해진 ‘러블리 몽환 에너제틱’을 보...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/1BB4B4844B26EDC760283FE0CF311C4E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[휘인, 미니 2집 'WHEE' 트랙리스트 공개...타이틀곡은 '오묘해' (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20103&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20103&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[가수 휘인(Whee In)이 두 번째 미니 앨범 트랙리스트를 공개하며 컴백 열기를 끌어올렸다. 소속사 더 라이브는 지난 29일 오후 6시 공식 SNS를 통해 휘인의 두 번째 미니 앨범 ′휘(WHEE)′의 트랙리스트를 공개했다. 공개된 트랙리스트에 따르면 이번 앨범에는 타이틀곡 ′오묘해′를 비롯해 ′핑크 클라우드(Pink Cloud)′, ′레터 필드 위드 라이트(Letter Filled with Ligh...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/D8B5C4CE91CE3567AB174431E3502202.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[원호, 'EYE ON YOU' 활동 본격 시동...오늘(17일) '엠카운트다운' 출격 (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20365&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20365&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[가수 원호(WONHO)가 ′엠카운트다운′을 시작으로 본격적인 컴백 활동에 나선다.원호는 17일 Mnet ′엠카운트다운′에 출연해 첫 싱글 ′옵세션(OBSESSION)′의 타이틀곡 ′아이 온 유(EYE ON YOU)′로 컴백 무대를 처음으로 선보인다. ′아이 온 유′는 원호의 절제된 보컬과 다크하고 파워풀한 무드를 자아내는 풍성한 사운드, 치명적인 가사가 어우러져 묘하게 피어나는 섹시미가 인상적인 곡이다...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/E8D39A4D619C9308F8FD2C82844F66DB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피원하모니, 새앨범 트랙비디오 ‘Follow Me’ 공개..‘색다른 매력’ (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20101&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20101&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Wed, 29 Dec 2021 02:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 피원하모니(P1Harmony, 기호 테오 지웅 인탁 소울 종섭)가 수록곡 안무를 담은 트랙비디오를 공개하며 색다른 매력을 발산한다.  피원하모니의 소속사 FNC엔터테인먼트는 28일 공식 SNS를 통해 미니 3집 ‘DISHARMONY _ FIND OUT’의 두 번째 P-SIDE 트랙비디오 ‘Follow Me’를 공개했다.  ‘P-SIDE 트랙비디오’는 수록곡을 뜻하는 B-side의 B를 P(Plus...<span>가온차트 <em>|</em> 2021-12-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/730CE1DB0F33F75C043BAA2225608134.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['28일 컴백' 로켓펀치, 타이틀곡은 'CHIQUITA'…시크 당당 에너지+역대급 퍼포... (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20364&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20364&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 로켓펀치(Rocket Punch, 연희 쥬리 수윤 윤경 소희 다현)가 시크하고 당당한 에너지와 역대급 퍼포먼스로 완전무장했다. 소속사 울림엔터테인먼트는 지난 16일 오후 6시 공식 SNS 및 유튜브 채널을 통해 로켓펀치의 ′′치키타′ 론칭 _ 퍼스트 뷰(′CHIQUITA′ Launching _ First View)′를 공개했다. 해당 영상은 로켓펀치 네 번째 미니 앨범 ′옐로 펀치(YELLOW P...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/3D1EB83AB0B68D8524135AB758D3F432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘1월 5일 컴백’ 오메가엑스, 이번엔 초현실 섹시…미니 2집 ‘LOVE ME LIKE... (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20098&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20098&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Wed, 29 Dec 2021 02:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오메가엑스(OMEGA X)가 멀티 섹시의 강렬함을 선사했다. 오메가엑스(재한, 휘찬, 세빈, 한겸, 태동, XEN, 제현, KEVIN, 정훈, 혁, 예찬)는 지난 28일 공식 SNS를 통해 두 번째 미니앨범 ‘LOVE ME LIKE(러브 미 라이크)’의 ‘LIKE(라이크)’ 버전 첫 번째 유닛 포토와 영상을 공개했다. 공개된 사진 속에는 붉은색 조명 아래 물든 오메가엑스 재한, 한겸, 혁의 강렬한...<span>가온차트 <em>|</em> 2021-12-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/7A4A8C049D7796D6CA81AC3D89E747C5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[체리블렛, 미니 2집 ‘Cherry Wish’로 3월 2일 컴백..사랑스러운 루시드 드... (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20359&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20359&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 체리블렛(해윤 유주 보라 지원 레미 채린 메이)이 몽환적인 꿈속 사랑이야기를 담은 새앨범으로 3월 2일 컴백한다.체리블렛의 소속사 FNC W는 지난 16일 체리블렛 공식 SNS를 통해 미니 2집 ‘Cherry Wish’의 두 가지 버전의 콘셉트 포토를 공개하고 약 1년여 만의 컴백을 알렸다.공개된 첫 번째 이미지에는 화려한 모습의 체리블렛이 나비가 날아드는 신비로운 공간에서 손을 뻗으며 몽환적인 ...<span>가온차트 <em>|</em> 2022-02-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/CD8798289FD8F02DAA9694C1BE664A9D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘데뷔 임박’ 케플러(Kep1er), 데뷔곡 ‘WA DA DA’ M/V 티저 공개…꿈이... (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20097&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20097&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Wed, 29 Dec 2021 02:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘4세대 아이돌 대표 루키’ 케플러(Kep1er)가 데뷔곡 ‘WA DA DA (와 다 다)’의 무드를 스포했다.케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 29일 0시 공식 SNS를 통해 데뷔 앨범 ‘FIRST IMPACT (퍼스트 임팩트)’ 타이틀곡 ‘WA DA DA (와 다 다)’의 뮤직비디오 티저 영상을 공개했다. 공개된 영상 속 케플러는 9인 9색...<span>가온차트 <em>|</em> 2021-12-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/8DB15A8D3655F671EFEC46E8317CB6A3.png" length="0" type="image/png"/>
+            <title><![CDATA[브랜뉴뮤직 차세대 보이그룹 YOUNITE(유나이트) 우노, 프롤로그 영상 공개…자체 발... (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20354&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20354&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[브랜뉴뮤직이 새 보이그룹 ′YOUNITE(유나이트)′의 두 번째 멤버 우노의 프롤로그 영상을 공개했다. 오늘(16일), 0시 브랜뉴뮤직은 YOUNITE의 공식 SNS 채널들을 통해 멤버 우노의 프롤로그 영상을 공개했는데, 영상에서 우노는 푸른 바다를 배경으로 한 폭의 그림 같은 비주얼로 팬들의 이목을 단번에 사로잡았다. 차분히 백사장을 거닐다 우연히 보석이 담긴 병을 발견한 우노는 햇빛에 보석을 비췄고...<span>가온차트 <em>|</em> 2022-02-16</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/F0441C996B42BE9B2CE97371F1B58E3F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘1월 10일 컴백’ 올라운더 김요한, 솔로 미니앨범 ‘Illusion’ 트랙리스트 공... (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20096&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20096&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Wed, 29 Dec 2021 02:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[이번 앨범에는 방탄소년단의 ‘소우주’와 ‘Inner Child (이너 차일드)’ 등을 작곡한 Ryan Lawrie, 샤이니의 ‘BODY RHYTHM (바디 리듬)’, 워너원의 ‘DEEPER (디퍼)’ 등을 작곡한 DIDRIK THOTT, 슈퍼주니어의 ‘SUPER CLAP (슈퍼 클랩)’과 몬스타엑스의 ‘KISS OR DEATH (키스 올 데스)’ 작곡가 Sebastian Thott을 비롯해 STAINB...<span>가온차트 <em>|</em> 2021-12-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/D881B36A73703331F7BAF717438323C7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슈퍼주니어, 28일 스페셜 싱글 'The Road : Winter for Spring'... (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20352&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20352&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[′K-POP 레전드′ 슈퍼주니어가 28일 컴백한다. 슈퍼주니어는 오는 28일 오후 6시 각종 온라인 음원 사이트를 통해 스페셜 싱글 앨범 ′The Road _ Winter for Spring (더 로드 _ 윈터 포 스프링)′을 발매한다. 16일 0시 슈퍼주니어 공식 SNS를 통해 ′The Road _ Winter for Spring′의 첫 번째 공식 티저이자 멤버 9인의 단체 이미지가 공개됐다. 사진 ...<span>가온차트 <em>|</em> 2022-02-16</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/287349C98DBB34F1B5DB6BFF6631317E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드리핀, 청량→강렬 '파격 변신' 예고…내년 1월 17일 'Villain'으로 컴백 (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20093&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20093&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Tue, 28 Dec 2021 03:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 드리핀(DRIPPIN)이 ′파격 변신′을 예고했다.소속사 울림엔터테인먼트는 28일 0시 공식 SNS 채널을 통해 드리핀 세 번째 미니 앨범 ′빌런(Villain)′의 컴백 포스터를 공개했다.컴백 포스터에는 드리핀 멤버들의 이름과 그룹 로고, 푸른 불꽃을 형상화한 무늬, 표적 표시 등이 담겼다. 특히 드리핀의 새 앨범명인 ′빌런′이 붉은 글씨로 크게 적혀 강렬한 존재감을 발산했다. 지난 6월 발매한...<span>가온차트 <em>|</em> 2021-12-28</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/E6EA86225A540EF2D345939F4971DCEC.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[채윤, ‘가요무대’서 ‘샌프란시스코’ 무대 선사. “간드러진 보이스” (가온차트 ─ K-pop now)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20351&amp;sgenre=kpop&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20351&amp;sgenre=kpop&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[트로트 가수 채윤이 간드러지는 보이스를 뽐냈다.지난 14일 밤 방송된 KBS 1TV ‘가요무대’에 채윤이 출연했다. 이날 방송에서 채윤은 백설희의 ‘샌프란시스코’를 선곡해 간드러지는 보이스로 명품 라이브를 선사했다.이날 시크한 블랙 셋업과 화려한 모자로 포인트를 준 채윤은 독보적인 패션 감각을 자랑하며 여전한 비주얼을 드러냈다. 특히 채윤은 눈부신 비주얼과 함께 탄탄한 가창력으로 안방극장 시청자들의 이...<span>가온차트 <em>|</em> 2022-02-15</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/CF99501C5E676DB2DB986BC1BFDD9D2C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하성운, 빅플래닛메이드 이적 후 첫 비주얼 필름 공개...시크+순수 매력 '글로벌 HO... (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20092&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20092&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Tue, 28 Dec 2021 03:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[가수 하성운이 다채로운 매력으로 향후 행보에 대한 기대감을 높였다. 신생 엔터테인먼트 기업 빅플래닛메이드(Big Planet Made, BPM) 측은 지난 27일 공식 SNS를 통해 하성운의 비주얼 필름을 게재했다. 이는 하성운이 빅플래닛메이드에서 처음으로 선보이는 콘텐츠다. 흑백 분위기로 시작되는 해당 영상에선 하성운이 댄디한 패션을 연출한 채 시크한 눈빛을 드러내고 있다. 이어 영상이 컬러풀한 분위...<span>가온차트 <em>|</em> 2021-12-28</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/0C61FDABE404769FEF5128FB990083C7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김희재, 오는 3월 앵콜 공연 '그리고 별, 그대' 개최. "오늘 18일 티켓 오픈" (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20370&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20370&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김희재가 ′그리고 별, 그대′로 전국 팬콘서트의 대미를 장식한다.김희재의 팬콘서트 서울 앵콜 공연 ′그리고 별, 그대′가 오는 3월 11일부터 13일까지 3일간 서울 블루스퀘어 마스터카드홀에서 열린다. 앞서 김희재는 지난해 10월부터 첫 번째 팬콘서트 ′별, 그대′ 서울 공연을 시작으로 부산, 울산, 대구, 성남 등 전국 각지의 팬들을 만났다.그동안 팬들이 보내준 사랑에 보답하기 위해 마련된 ′그...<span>가온차트 <em>|</em> 2022-02-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/1A2C3B9672DBEE9C9FF697E1F6E277DA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아스트로 두 번째 유닛 진진&라키, 1월 17일 미니 앨범 'Restore'로 깜짝 데... (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20091&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20091&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Tue, 28 Dec 2021 03:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 아스트로 멤버 진진&amp;라키가 첫 유닛 앨범을 발매하며 ′펑키 듀오′의 출격을 예고했다.소속사 판타지오는 지난 27일 오후 아스트로 공식 SNS를 통해 멤버 진진과 라키의 첫 번째 미니 앨범 ′Restore′(리스토어) 커밍업 티저 이미지를 깜짝 공개해 화제를 모았다. 키치한 매력이 돋보이는 티저 이미지는 진진과 라키의 아이덴티티 컬러인 네이비와 그린으로 구성돼 있다. 여기에 두 멤버를 형상화한 캐릭...<span>가온차트 <em>|</em> 2021-12-28</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/D15C1E1F7D00047087C7186FCCEDB932.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['밴드계 신흥 강자' 웨이브투어스, 3월 5일 '2022 CrossRoad Factor... (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20353&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20353&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[밴드 웨이브투어스(wave to earth)가 ‘2022 CrossRoad Factory’ 페스티벌에 출격한다. 웨이브투어스(김다니엘, 차순종, 신동규)는 오는 3월 5일 오후 진행되는 ‘2022 CrossRoad Factory’ 페스티벌에서 특별한 라이브 무대를 선보인다. 웨이브투어스의 공연은 오후 3시부터 펼쳐질 예정이다. ‘2022 CrossRoad Factory’는 ‘어디에서도 보지 못한 공간,...<span>가온차트 <em>|</em> 2022-02-16</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/D58056E475F856DB1E3DFE50D1E487FB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[51周Gaon排行榜：BE'O三冠王..。NCT‘Universe-The 3rd Album’... (가온차트 ─ K-pop now)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20088&amp;sgenre=kpop&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20088&amp;sgenre=kpop&amp;search_str=</guid>
-            <pubDate>Fri, 24 Dec 2021 03:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[가온차트 (press@k-mca.or.kr)                                    <span>가온차트 <em>|</em> 2021-12-24</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/63FE5C60491B83E4824726422135E18B.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[라비, 단독 콘서트 'REVOIR' 스페셜 게스트 공개...휘인·문세윤·에일리 지원... (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20331&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20331&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[가수 라비(RAVI)의 단독 콘서트 스페셜 게스트들이 공개됐다. 소속사 그루블린은 지난 10일 오후 3시 공식 SNS 채널을 통해 ′2022 라비 콘서트 - 르브아(2022 RAVI CONCERT - REVOIR)′의 스페셜 게스트 라인업을 깜짝 오픈했다. 라비가 지난해 설립한 자체 레이블 더 라이브의 식구인 휘인과 에일리가 각각 오는 25일과 27일 공연을 지원 사격해 끈끈한 의리를 과시한다. 대체불...<span>가온차트 <em>|</em> 2022-02-11</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/A66D9B0054958AD3D92951E4D5A3CA6B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['내일은 국민가수' TOP10, 2월 26일 전국투어 콘서트 개최…30일 오후 8시 티... (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20104&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20104&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Thu, 30 Dec 2021 02:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[′내일은 국민가수′ TOP10이 전국투어 콘서트 티켓 예매를 시작한다.TV CHOSUN 글로벌 K-POP 오디션 ′내일은 국민가수(이하 ′국민가수′)′의 TOP10 박창근, 김동현, 이솔로몬, 박장현, 이병찬, 고은성, 손진욱, 조연호, 김희석, 김영흠은 오는 2월 26일 서울 공연을 시작으로 ′2022년 내일은 국민가수 전국투어 콘서트′를 개최한다.이번 전국투어 콘서트는 ′국민가수′ 종영 이후 선보이...<span>가온차트 <em>|</em> 2021-12-30</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/3BAAAB1BF6AF65940689ECC61A24E6A4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['라이브 여신' 윤하, 3월 11일 앙코르 콘서트 'END THEORY : Final ... (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20321&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20321&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[가수 윤하가 앙코르 콘서트로 팬들을 다시 만난다.윤하는 오는 3월 11일부터 13일까지 사흘간 ′2022 윤하 앵콜 콘서트 <end theory="" _="" final="" edition="">′을 개최한다.′END THEORY _ Final Edition(엔드 띠어리 _ 파이널 에디션)′은 윤하가 지난해 12월 진행한 단독 콘서트 ′END THEORY(엔드 띠어리)′의 성원에 힘입어 다시 한 번 개최를 결정한 앙코르 콘...<span>가온차트 <em>|</em> 2022-02-10</span></end>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/2B2287039695CF2006227592FDF624E0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['대세 밴드' 루시, 오늘(29일) '리슨 스테이지' 완전체 첫 출연...고품격 라이브... (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20099&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20099&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Wed, 29 Dec 2021 02:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[대세 밴드 루시(LUCY)가 ′리슨 스테이지′로 뜨거운 연말을 선사한다.루시는 29일 오후 7시 30분부터 미스틱스토리의 공연 프로젝트 ′리슨 스테이지 (LISTEN STAGE)′ 무대를 펼친다.루시의 공연은 미스틱스토리 유튜브 채널 스트리밍을 통해 실시간으로 방송되어 더 많은 팬들을 만날 예정이다.′리슨 스테이지′는 지난 2017년 ′듣는 음악′에 이어 ′보이는 음악′에 충실하자는 모토로, 미스틱스토...<span>가온차트 <em>|</em> 2021-12-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/F8ADBF5F130D0E9B2761FA7FBBA63C58.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[콜드, 3월 19일 부산 단독 콘서트 'Colde 2022 Live : Surf in ... (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20307&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20307&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 콜드(Colde)가 부산에서의 첫 콘서트를 개최한다.콜드는 오는 3월 19일 오후 6시 부산시민회관 대극장에서 단독 콘서트 ′Colde 2022 Live _ Surf in Busan (콜드 2022 라이브 _ 서프 인 부산)′을 개최한다.′Surf in Busan′은 콜드가 데뷔 후 처음으로 부산에서 진행하는 단독 콘서트다. 타이틀의 뜻처럼 콜드만이 표현할 수 있는 다채로운 음악의 물결이 ...<span>가온차트 <em>|</em> 2022-02-08</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/3F0263AC58896B51367E635C7B7BAF6E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정동원, '음학회' 콘서트 또 매진. '동화'-'성탄총동원' 콘서트 이어 2021년 ... (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20090&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20090&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Tue, 28 Dec 2021 03:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘음악 천재’ 정동원이 독보적인 티켓 파워로 이목을 모은다.‘제1회 정동원 음학회 ‘音學會’ (1ST JEONG DONG WON’S ORCHESTRA CONCERT)’의 티켓이 매진됐다. 정동원은 지난 27일 오픈된 선예매 티켓에 이어 오늘 28일 오픈된 일반예매 티켓까지 2회차 공연 5000석을 전석 매진시키며 굳건한 티켓 파워를 과시했다.오늘 28일 세종문화회관 홈페이지는 티켓 오픈과 동시에 많은 ...<span>가온차트 <em>|</em> 2021-12-28</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/02D81600819C7D52EABB1F27CDFF24E4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[빅톤, 5주년 기념 팬미팅 ‘크로노그래프’ 성료…긴 기다림 끝 팬들과 특별한 시간! (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20301&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20301&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 빅톤(VICTON)이 팬들과 5주년 기념 팬미팅을 성료했다.빅톤은 지난 5일, 6일 서울 용산구 블루스퀘어 마스터카드홀에서 팬미팅 ‘Chronograph(크로노그래프)’를 개최해 오랜만에 팬들과 만났다. 이번 행사는 전세계에 온라인 생중계되는 동시에, 코로나19 확산 방지를 위한 철저한 방역지침 준수 하에 대면으로도 진행돼 긴 기다림 끝 만난 팬들에게 더욱 그 의미가 깊었다.이날 팬미팅은 빅톤의 ...<span>가온차트 <em>|</em> 2022-02-07</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/CB0D4F3F848A9C7309BA05643D40175E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤종신, 오늘(24일) 부산서 단독 콘서트 'BIRDMAN' 개최...연말 따뜻한 음악... (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20085&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20085&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Fri, 24 Dec 2021 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[가수 윤종신이 콘서트로 특별한 크리스마스 이브를 선사한다. 윤종신은 24일 오후 7시 부산 드림씨어터에서 단독 콘서트 ′BIRDMAN′을 개최한다. ′BIRDMAN′은 화려한 스타나 예능인이 아닌 가수 윤종신의 모습을 만날 수 있는 공연이다. 윤종신을 가장 사랑받게 하고, 또 윤종신이 가장 사랑하는 본질과도 같은 그의 음악이 가득 담긴 콘서트를 예고해 기대를 모으고 있다. 윤종신은 이번 콘서트를 통해 ...<span>가온차트 <em>|</em> 2021-12-24</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/5F49E24A5AF94989A0AF182D14244B8A.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고스트나인, 데뷔 첫 미국 단독 투어 'INTO THE NOW' 공연 성료 "꿈같은 ... (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20294&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20294&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 고스트나인(GHOST9)이 데뷔 첫 미국 투어를 성료했다.고스트나인(손준형, 이신, 최준성, 이강성, 프린스, 이우진, 이진우)은 지난달 15일부터 약 3주에 걸쳐 진행된 첫 미국 투어 ′MEET&amp;LIVE TOUR in US <into the="" now="">′를 성공리에 마쳤다.고스트나인은 로스앤젤레스 공연을 시작으로 샌프란시스코, 뉴욕, 보스턴까지 총 4개 도시에서 현지 팬들과 만났다. 첫 공연 당시 ...<span>가온차트 <em>|</em> 2022-02-04</span></into>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/A5CFC916992BEB55A0AF50AD09678E95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정동원, ‘가수들의 꿈의 무대’ 세종문화회관에서 최연소 단독콘서트 개최한다 (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20082&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20082&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Fri, 24 Dec 2021 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[‘음악 천재’ 정동원이 새로운 시리즈의 단독 콘서트 ‘음학회’를 개최한다.가수 정동원이 내년 1월 15일, 16일 세종문화회관 대극장에서 ‘제1회 정동원 음학회 ‘音學會’ (1ST JEONG DONG WON’S ORCHESTRA CONCERT)’를 개최한다. 정동원은 세종문화회관 개관 44년 이래 단독 콘서트를 여는 최연소 아티스트로서 모든 가수들이 원하는 꿈의 무대에 서게 됐다.이번 콘서트는 정동원의...<span>가온차트 <em>|</em> 2021-12-24</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/42E8C945E9CDF4FEBC1A3585C2DB7122.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[“윤딴딴·브로콜리너마저·몽니·기프트 출격”…‘2022 캠핑 뮤직 페스티벌’, 오늘... (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20276&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20276&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘2022 CAMPING MUSIC FESTIVAL(2022 캠핑 뮤직 페스티벌)’이 28일 온라인 예매 사이트 예스24를 통해 티켓 예매를 시작한다. ‘2022 CAMPING MUSIC FESTIVAL’은 ‘뮤지션과 함께 떠나는 음악 여행’이라는 콘셉트의 이색 페스티벌이다. 캠핑장으로 꾸며진 공연장에서 음악을 통해 이야기를 나누고 서로에게 위로와 힐링을 선사하는 시간을 선보인다. 이번 페스티벌은 실제...<span>가온차트 <em>|</em> 2022-01-28</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/EB5C594E2B90EE15177A8BC0572F3743.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김장훈, 올해도 산타로 돌아온다! 26일 구세군 자선냄비 콘서트 '8시간의 기적' 개... (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20075&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20075&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Thu, 23 Dec 2021 02:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김장훈이 지난해에 이어 올해도 구세군 산타로 돌아온다. 김장훈은 26일 낮 12시부터 저녁 8시까지 서울 명동역 6번 출구 앞 광장에서 구세군 자선냄비 콘서트 ′8시간의 기적′을 펼친다. 이날 긴 여정은 네이버TV 채널 김장훈TV에서 실시간으로 생중계된다. 김장훈은 지난해에 이어 2년 연속 구세군 자선냄비 공연의 산타로 변신한다. 김장훈은 오는 24일과 25일 예정된 단독 콘서트를 마치고 바로 다...<span>가온차트 <em>|</em> 2021-12-23</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/9C702A271D02197C1D9DB4AAFEB86DC5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[남우현, 인피니트 응원 속 팬미팅 성료..."긴 기다림 끝에 다시 만난 우리" (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20242&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20242&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 인피니트(INFINITE) 남우현이 멤버들의 든든한 응원을 받으며 두 번째 팬미팅을 성공적으로 마쳤다.남우현은 지난 22일과 23일 양일간 서울 강서구 화곡동 KBS아레나에서 팬미팅 ′나무컴퍼니 신년워크샵′을 열었다.′나무컴퍼니 신년워크샵′은 남우현이 지난 2019년 10월 개최한 ′나무가 졸라서 급하게 잡은 팬미팅′ 이후 2년 3개월 만에 팬들과 직접 만나는 자리였다. 남우현은 오랜만에 팬미팅으...<span>가온차트 <em>|</em> 2022-01-24</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/D6D17279296B640CE5302FCA95BA4842.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["계속 열심히 음악할 것" 하현상, 겨울 저녁 위로하는 감성 싱어송라이터…팬들과 소통 ... (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20066&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20066&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Wed, 22 Dec 2021 03:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 하현상이 세 번째 EP ′Calibrate(캘리브레이트)′ 발매 소감을 전하며 팬들과 특별한 시간을 가졌다.  하현상은 지난 21일 공식 트위터를 통해 세 번째 EP ′Calibrate′ 발매 기념 블루룸 라이브를 진행했다.   지난 8월 ′불꽃놀이′ 이후 ′Calibrate′로 돌아온 하현상은 이날 라이브를 통해 다양한 이야기를 나눴다. ″′Calibrate′로 4개월 만에 왔다″고 말문...<span>가온차트 <em>|</em> 2021-12-22</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/ABC273AEAD85F3F4684F42CCF70658F4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['내일은 국민가수' TOP10, 갈라쇼 성료→전국투어 콘서트 '기대감 UP' (가온차트 ─ Perform)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20235&amp;sgenre=perform&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20235&amp;sgenre=perform&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[′내일은 국민가수′ TOP10이 갈라쇼를 통해 감동을 재현했다.′내일은 국민가수(이하 ′국민가수′)′ TOP10은 지난 20일 방송된 TV CHOSUN ′내일은 국민가수 갈라쇼′에 출연해 다채로운 무대와 못다 한 이야기를 대방출했다.이날 ′국민가수′ TOP10은 다시 보고 싶은 무대부터 2021년 화제의 인물들과 함께 한 특별 컬래버레이션에 이르기까지 지금까지 볼 수 없었던 새로운 매력들을 유감없이 발...<span>가온차트 <em>|</em> 2022-01-21</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/2D3F84076AE8DFB173EBB072A9B40FB5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고스트나인, 내년 1월 첫 미국 단독 투어 'INTO THE NOW' 개최…글로벌돌 행... (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20047&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20047&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Fri, 17 Dec 2021 02:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 고스트나인(GHOST9)이 첫 미국 투어로 글로벌 행보를 시작한다. 고스트나인(손준형, 이신, 최준성, 이강성, 프린스, 이우진, 이진우)은 내년 1월 15일부터 27일까지 ′MEET&amp;LIVE TOUR in US <into the="" now="">′를 개최한다.  고스트나인은 약 2주간 로스앤젤레스를 시작으로 샌프란시스코, 뉴욕, 보스턴까지 총 4개 도시에서 현지 팬들과 만난다.   ′INTO THE NO...<span>가온차트 <em>|</em> 2021-12-17</span></into>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/672C3E85784292B1BD7ECC21290C739F.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[콜드, 세 번째 음악 레이블 파이렛(PYRAT) 론칭…첫 번째 아티스트 미닛(Minit... (가온차트 ─ Issue)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20290&amp;sgenre=issue&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20290&amp;sgenre=issue&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지션 미닛(Minit)이 콜드(Colde)의 새로운 레이블 파이렛(PYRAT)의 첫 번째 아티스트로 함께한다. 콜드가 이끄는 새로운 음악 레이블 파이렛(PYRAT) 측은 지난 3일 공식 SNS를 통해 정식 론칭을 알린 데 이어 첫 번째 아티스트 미닛(Minit)의 프로필 이미지를 공개했다. 파이렛은 ′해적′이라는 뜻의 영어 단어 ′pirate′, ′출발 준비가 된′이라는 뜻의 독일어 단어 ′parat...<span>가온차트 <em>|</em> 2022-02-04</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/23BB14FEBDCF1B2810E811D85FA2025E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[벤, 2F 신용재X김원주 첫 단독 콘서트 'If' 스페셜 게스트 출격...명품 라이브 ... (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20026&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20026&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Wed, 15 Dec 2021 03:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[가수 벤이 보컬 듀오 2F(이프)의 단독 콘서트에 출격한다. 밀리언마켓은 15일 ″오는 26일 열리는 2F(신용재, 김원주)의 단독 콘서트 ′If′에 벤이 스페셜 게스트로 출연한다″라고 밝혔다. 이와 함께 지난 14일 공식 SNS를 통해 2F 콘서트의 게스트 예고 이미지를 공개하며 공연에 대한 기대감을 높였다. 벤은 지난 8일 신용재와 함께 ′REVIBE(리바이브)′ 프로젝트의 여섯 번째 음원 ′REV...<span>가온차트 <em>|</em> 2021-12-15</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/EC9D171D29FF56EFC7DEA3D943E6BC8B.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[모델 유리사, 팝뮤직과 전속계약 “가수 정식 데뷔 예정” (가온차트 ─ Issue)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20233&amp;sgenre=issue&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20233&amp;sgenre=issue&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[모델 겸 인플루언서 유리사가 팝뮤직과 전속계약을 맺고 활동을 시작한다. 팝뮤직은 20일 “유리사와 전속계약을 체결했다”며 “국내 최정상의 작곡가, 프로듀서들의 지원과 함께 가수로 정식 데뷔를 준비 중이며, 본인의 색이 한층 깊어진 음악과 영상으로 대중들과 소통할 수 있도록 체계적인 매니지먼트를 지원할 것”이라고 밝혔다. 유리사는 팝뮤직의 전문 매니지먼트의 지원 아래 가수 뿐 아니라 예능과 드라마 등으로...<span>가온차트 <em>|</em> 2022-01-20</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/3B757D3DEFE376762B9ED7BF9624D894.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브아걸 제아, 인기 팟캐스터 비혼세와 25일 크리스마스 콘서트 개최...거침없는 입담 ... (가온차트 ─ Perform)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20010&amp;sgenre=perform&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20010&amp;sgenre=perform&amp;search_str=</guid>
-            <pubDate>Mon, 13 Dec 2021 03:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[가수 제아와 팟캐스터 비혼세(곽민지 작가)가 특별한 크리스마스 공연을 꾸민다.제아와 비혼세는 오는 25일 크리스마스를 맞아 서울 올림픽홀 뮤즈라이브에서 콘서트 ′GREEDY CHRISTMAS (제아&amp;팟캐스트 비혼세와 함께 보내는 가장 나다운 크리스마스)′를 개최한다.이번 콘서트는 뻔한 커플 이벤트와 마케팅이 가득한 연말 공연의 틀을 깨버리고 제아와 비혼세만이 할 수 있는 불편하지 않는 농담과 시원한 입...<span>가온차트 <em>|</em> 2021-12-13</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/D49556F790C32785EBA2CCF43AD0DD59.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[AOMG, 새로운 아티스트 영입 예고…D-7 티저 영상 깜짝 공개 (가온차트 ─ Issue)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20209&amp;sgenre=issue&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20209&amp;sgenre=issue&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[AOMG가 새로운 아티스트의 영입을 예고했다.힙합 레이블 AOMG는 17일 오후 공식 SNS와 유튜브 채널에 ′NEW ARTIST ANNOUNCEMENT′에 대한 짧은 티저 영상을 공개했다.영상은 ′NEW ARTIST ANNOUNCEMENT′, ′D-7′이라는 문구로 7일 뒤 새로운 아티스트를 발표한다는 내용을 담고 있다.다만 해당 아티스트에 대한 정보는 공개되지 않아 AOMG의 새로운 얼굴이 누구일지...<span>가온차트 <em>|</em> 2022-01-18</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/0B0DC2C7209E65F9A560EA73F2058446.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내일은 국민가수' 하동연, n.CH엔터테인먼트와 전속계약 체결…본격 가수 활동 시작 (가온차트 ─ Issue)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20204&amp;sgenre=issue&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20204&amp;sgenre=issue&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[′내일은 국민가수′ 11위 하동연이 n.CH엔터테인먼트와 손잡고 본격적인 가수 활동을 시작한다.17일 n.CH엔터테인먼트는 ″TV CHOSUN ′내일은 국민가수′에서 최종 11위를 차지한 하동연과 최근 전속계약을 체결했다″고 밝혔다.′내일은 국민가수′의 ′직장부′로 첫 등장한 하동연은 매력적인 마스크와 독보적인 동굴 저음으로 국민을 매료시키며 최종 11위를 차지했다. 특히 뛰어난 곡 해석 능력과 특유의...<span>가온차트 <em>|</em> 2022-01-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/948386357B807A4B8D8E1BFFFAF2BD2E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[n.CH엔터테인먼트, '내일은 국민가수' TOP10 공식 매니지먼트 체결 (가온차트 ─ Issue)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20164&amp;sgenre=issue&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20164&amp;sgenre=issue&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[n.CH엔터테인먼트가 ′내일은 국민가수′ TOP10의 매니지먼트를 맡는다. 10일 소속사 n.CH엔터테인먼트는 ″TV CHOSUN ′내일은 국민가수′ TOP10의 공식 매니지먼트를 담당하게 되었다″라며 ″다양한 분야에서 끼와 재능을 마음껏 펼칠 수 있도록 지원을 아끼지 않을 것″이라고 밝혔다. n.CH엔터테인먼트는 정창환 프로듀서가 대표를 맡고 있으며, 그룹 네이처, 배우 우다비 등 다방면에서 활약 중...<span>가온차트 <em>|</em> 2022-01-10</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/61F376457FF30EF10A01EEBAE3464803.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크래커, '그리즐리·CHE 소속사' EGO Group 손 잡고 '독보적 아티스트'로... (가온차트 ─ Issue)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20156&amp;sgenre=issue&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20156&amp;sgenre=issue&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 겸 프로듀서 크래커(CRACKER)가 EGO Group에 합류했다.7일 EGO Group은 ″크래커와 최근 전속계약을 체결했다. 크래커는 특유의 색깔을 가지고 꾸준히 활동하며 두터운 마니아층을 형성해 온 싱어송라이터다. 앞으로 본격적인 활발한 활동에 나설 예정이다″라고 밝혔다.이어 ″크래커를 좀 더 대중적으로 알리고픈 욕심이 생겼다. 크래커 고유의 색깔이 훼손되지 않게 본인이 하고 싶은 음...<span>가온차트 <em>|</em> 2022-01-07</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/AD3F2902A5975608903250FDF20A50EF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로비너스·유니티 윤조, 와이블룸과 전속계약 체결…이유비와 한솥밥 (가온차트 ─ Issue)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20150&amp;sgenre=issue&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20150&amp;sgenre=issue&amp;search_str=</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 헬로비너스·유니티 출신 윤조가 와이블룸과 손을 잡았다.  6일 소속사 와이블룸은 ″윤조와 최근 전속계약을 체결했다″라고 밝혔다.  윤조는 지난 2012년 그룹 헬로비너스로 데뷔해 비주얼은 물론 보컬, 댄스 등 다양한 매력을 보여주며 많은 사랑을 받았다. 이후 2017년 방송된 KBS 2TV 오디션 프로그램 ′아이돌 리부팅 프로젝트 더 유닛′에서 최종 4위를 차지하며 그룹 유니티로 활동하기도 했다...<span>가온차트 <em>|</em> 2022-01-06</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/A57E153354AEE6251A455A979540F62C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주니엘, C9엔터테인먼트와 전속계약 종료 (가온차트 ─ Issue)]]></title>
@@ -502,66 +558,114 @@
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202108/7F29EA1B64CABB84138ADB1BE8B7665B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라비, 에일리 손 잡았다…新 레이블 더 라이브 첫 아티스트! (가온차트 ─ Issue)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19232&amp;sgenre=issue&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19232&amp;sgenre=issue&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[′그루블린(GROOVL1N) 수장′ 라비가 에일리와 손을 잡았다.라비가 설립한 자체 레이블 더 라이브(THEL1VE)는 22일 자정 공식 SNS를 통해 에일리(Ailee)를 첫 번째 아티스트로 공개했다.이미지와 함께 ′더 라이브에 온 것을 환영한다(WELCOME TO THEL1VE Ailee)′라는 문구가 함께 업로드 돼 이들이 앞으로 선보일 음악에 대한 궁금증을 자극했다.더 라이브는 라비가 힙합과 R...<span>가온차트 <em>|</em> 2021-07-22</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202107/7824701DE60065DDA794620EBF8549E0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2021 Winter SMTOWN : SMCU EXPRESS (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[‘원조 트롯퀸’ 김혜연, 타조엔터와 전속계약 체결…윙크·박서진과 한솥밥 (가온차트 ─ Issue)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19079&amp;sgenre=issue&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19079&amp;sgenre=issue&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[트로트 가수 김혜연이 타조엔터테인먼트에 합류했다.25일 소속사 타조엔터테인먼트는 “김혜연과 최근 전속계약을 체결했다. 방송부터 오프라인 행사 등 김혜연이 다방면에서 활발한 활동을 펼칠 수 있도록 적극적으로 지원할 것”이라고 밝혔다.지난 1993년 트로트 가수로 정식 데뷔한 김혜연은 ‘서울 대전 대구 부산’, ‘간큰 남자’, ‘서울 공화국’, ‘참아주세요’ 등의 히트곡들을 배출, 왕성한 활동을 펼치며 오...<span>가온차트 <em>|</em> 2021-06-25</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/E0C6A9B850735B70F3B7D8ECB5CB95D5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Universe - The 3rd Album (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지션 신해경, 검정치마 소속사 BESPOK(비스포크)와 계약…7월 신보 '감정둔마' ... (가온차트 ─ Issue)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19041&amp;sgenre=issue&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19041&amp;sgenre=issue&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지션 신해경이 레이블 BESPOK(비스포크)에 합류했다. 18일 BESPOK는 ″특유의 공간감과 극적인 전개의 음악으로 업계내 독보적인 색깔을 선보이는 뮤지션 신해경과 최근 전속계약을 맺었다″고 밝혔다. 작사, 작곡, 편곡, 레코딩뿐만 아니라 섬세한 감성으로 믹싱까지 스스로 작업하는 신해경의 음악은 록을 베이스로 두면서도 힘을 뺀 보컬, 여러 레이어의 꽉 찬 기타 사운드가 특징이다. 주로 시인 이상의...<span>가온차트 <em>|</em> 2021-06-18</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/5AD60CE74B763CF0163CB45433078747.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ZERO: FEVER EPILOGUE (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[ATEEZ (에이티즈)]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[손호영(SHY), 비트인터렉티브와 손잡다! 전속계약 체결 “좋은 조력자로서 전폭 지원할... (가온차트 ─ Issue)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18992&amp;sgenre=issue&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18992&amp;sgenre=issue&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[비트인터렉티브, ‘올라운더’ 손호영(SHY) 영입+’글로벌돌’ 에이스(A.C.E) 컴백…글로벌 엔터사로 발돋움비트인터렉티브가 손호영(SHY)을 전격 영입하고 글로벌 엔터사로 힘찬 도약에 나선다. 비트인터렉티브는 11일 “손호영(SHY)과 최근 전속계약을 체결했다. 다방면으로 많은 사랑을 받고 있는 손호영과 새로운 가족이 되어 매우 기쁘게 생각한다″라고 밝혔다.손호영(SHY)이 새 둥지를 튼 비트인터렉티...<span>가온차트 <em>|</em> 2021-06-11</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/5C3396BD367B4FEFE4A59992D815C571.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ELEVEN (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[IVE (아이브)]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[대한민국 대표 대중음악차트 ‘가온차트’, ‘틱톡’과 손잡고 K-POP 세계적 위상 알린... (가온차트 ─ Issue)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18987&amp;sgenre=issue&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18987&amp;sgenre=issue&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[가온차트에 글로벌 숏폼 모바일 비디오 ­­­플랫폼 ‘틱톡(TikTok)’ 데이터가 반영될 예정이다.가온차트를 운영하는 사단법인 한국음악콘텐츠협회는 “대한민국 대중음악차트 ‘가온차트’와 영상 숏폼 트렌드를 선도하는 ‘틱톡’이 정식으로 손잡고 다양한 콘텐츠들을 만들어볼 예정이며, 먼저 소셜차트2.0에 틱톡 데이터를 추가하는 것부터 시작할 것.”이라고 발표했다.소셜차트2.0(Social Chart 2....<span>가온차트 <em>|</em> 2021-06-10</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202106/540E7E9DD106CFEC2B9857E61158977C.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Peaches - The 2nd Mini Album (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[카이 (KAI)]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[캔 배기성, PA엔터테인먼트와 전속계약 체결…정모·노바소닉과 한솥밥 (가온차트 ─ Issue)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18882&amp;sgenre=issue&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18882&amp;sgenre=issue&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[남성 듀오 캔(Can) 배기성이 PA엔터테인먼트에 새 둥지를 틀었다.  PA엔터테인먼트는 24일 ″음악과 방송을 오가며 대중에게 많은 사랑을 받고 있는 배기성과 최근 전속계약을 체결했다″고 밝혔다.  배기성은 1993년 MBC 대학가요제에서 은상을 수상하며 가수로 데뷔했다. 이어 이종원과 함께 캔을 결성해 ′내 생애 봄날은′, ′가라가라′, ′맨발의 청춘′, ′겨울 이야기′ 등의 수많은 대표곡을 낳으며...<span>가온차트 <em>|</em> 2021-05-24</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202105/B88880B20C61AD2D056B33B70F98B3CF.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Christmas EveL (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[숀(SHAUN), 애드 시런·두아리파·크리스토퍼 소속 워너뮤직과 손잡고 활동 재개 (가온차트 ─ Issue)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18748&amp;sgenre=issue&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18748&amp;sgenre=issue&amp;search_str=</guid>
-            <pubDate>Tue, 21 Sep 2021 20:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 숀(SHAUN)이 워너뮤직코리아와 손잡고 새로운 활동을 예고했다.26일 숀 관계자는 “숀이 글로벌 음반사 워너뮤직코리아와 함께 활발한 활동을 펼칠 계획”이라고 밝혔다.워너뮤직코리아는 “해외 지역에서도 꾸준한 사랑을 받으며, 세계적인 뮤지션들과 컬래버레이션 작업도 펼치고 있는 숀의 음악적 역량을 높이 평가했다”며 “국내뿐만 아니라 해외에서도 사랑받는 아티스트 숀이 앞으로 더 많은 음악적 활동...<span>가온차트 <em>|</em> 2021-04-26</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202104/5D4AF050AFBAC197BCEB64138BE5A702.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[CRAZY IN LOVE (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY (있지)]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Butter (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3M.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[THE FIRST STEP : CHAPTER THREE (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[TREASURE (트레저)]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[NO LIMIT (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[몬스타엑스]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Formula of Love: O+T=<3 (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[3rd Single Album [MAVERICK] (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[더보이즈(THE BOYZ)]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[혼돈의 장: FIGHT OR ESCAPE (가온차트 ─ 인증)]]></title>
+            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
+            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[투모로우바이투게더]]></content:encoded>
+            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3P.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Favorite - The 3rd Album Repackage (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3P.gif" length="0" type="image/gif"/>
         </item>
@@ -569,7 +673,7 @@
             <title><![CDATA[9th Mini Album `Attacca` (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2M.gif" length="0" type="image/gif"/>
         </item>
@@ -577,7 +681,7 @@
             <title><![CDATA[DIMENSION : DILEMMA (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -585,23 +689,15 @@
             <title><![CDATA[Savage - The 1st Mini Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[aespa]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAZY IN LOVE (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY (있지)]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[LALISA (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[리사 (LISA)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -609,7 +705,7 @@
             <title><![CDATA[ZERO : FEVER Part.3 (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[ATEEZ (에이티즈)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -617,7 +713,7 @@
             <title><![CDATA[Sticker - The 3rd Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2M.gif" length="0" type="image/gif"/>
         </item>
@@ -625,7 +721,7 @@
             <title><![CDATA[BORDER : CARNIVAL (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3P.gif" length="0" type="image/gif"/>
         </item>
@@ -633,7 +729,7 @@
             <title><![CDATA[R (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[로제 (ROSE)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -641,7 +737,7 @@
             <title><![CDATA[`FOLLOW` : FIND YOU (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[몬스타엑스]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -649,7 +745,7 @@
             <title><![CDATA[LOVE YOURSELF 結 `Answer` (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3M.gif" length="0" type="image/gif"/>
         </item>
@@ -657,7 +753,7 @@
             <title><![CDATA[NOEASY (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -665,23 +761,15 @@
             <title><![CDATA[Queendom - The 6th Mini Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳(Red Velvet)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[혼돈의 장: FIGHT OR ESCAPE (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[투모로우바이투게더]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[6TH MINI ALBUM [THRILL-ING] (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[더보이즈(THE BOYZ)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -689,7 +777,7 @@
             <title><![CDATA[SWITCH ON (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[아스트로(ASTRO)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -697,7 +785,7 @@
             <title><![CDATA[Hello Future - The 1st Album Repackage (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -705,23 +793,15 @@
             <title><![CDATA[공감 - The 1st Mini Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[디오 (D.O.)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Butter (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2M.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Hello Future - The 1st Album Repackage (Kit) (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -729,7 +809,7 @@
             <title><![CDATA[BORDER : DAY ONE (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -737,7 +817,7 @@
             <title><![CDATA[KILL THIS LOVE (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -745,7 +825,7 @@
             <title><![CDATA[ARE YOU THERE? - The 2nd Album Take.1 (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[몬스타엑스]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -753,7 +833,7 @@
             <title><![CDATA[SPECIAL ALBUM `DIRECTOR`S CUT` (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -761,7 +841,7 @@
             <title><![CDATA[8th Mini Album `Your Choice` (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -769,7 +849,7 @@
             <title><![CDATA[Taste of Love (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -777,7 +857,7 @@
             <title><![CDATA[DON`T FIGHT THE FEELING - Special Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[EXO]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -785,7 +865,7 @@
             <title><![CDATA[One Of A Kind (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[몬스타엑스]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -793,7 +873,7 @@
             <title><![CDATA[혼돈의 장 : FREEZE (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[투모로우바이투게더]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3P.gif" length="0" type="image/gif"/>
         </item>
@@ -801,7 +881,7 @@
             <title><![CDATA[THE FIRST STEP : CHAPTER TWO (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE (트레저)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -809,7 +889,7 @@
             <title><![CDATA[Love poem (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[아이유 (IU)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -817,7 +897,7 @@
             <title><![CDATA[Cle 1 : MIROH (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -825,7 +905,7 @@
             <title><![CDATA[맛 (Hot Sauce) - The 1st Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2M.gif" length="0" type="image/gif"/>
         </item>
@@ -833,7 +913,7 @@
             <title><![CDATA[ZERO : FEVER Part.2 (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[ATEEZ (에이티즈)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -841,7 +921,7 @@
             <title><![CDATA[IN生 (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -849,7 +929,7 @@
             <title><![CDATA[3RD ALBUM `An Ode` (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -857,7 +937,7 @@
             <title><![CDATA[All Yours (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[아스트로(ASTRO)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -865,7 +945,7 @@
             <title><![CDATA[YELLOW (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[강다니엘]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -873,7 +953,7 @@
             <title><![CDATA[GUESS WHO (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[ITZY (있지)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -881,7 +961,7 @@
             <title><![CDATA[Bambi - The 3rd Mini Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[백현 (BAEKHYUN)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -889,7 +969,7 @@
             <title><![CDATA[NCT RESONANCE Pt. 2 - The 2nd Album (Kit) (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -897,7 +977,7 @@
             <title><![CDATA[5th Album 'LILAC' (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[아이유 (IU)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -905,7 +985,7 @@
             <title><![CDATA[The Renaissance - The 10th Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어 (Super Junior)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -913,7 +993,7 @@
             <title><![CDATA[Kick Back - The 3rd Mini Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[WayV]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -921,7 +1001,7 @@
             <title><![CDATA[Cle : LEVANTER (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -929,7 +1009,7 @@
             <title><![CDATA[MAP OF THE SOUL : PERSONA (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_4M.gif" length="0" type="image/gif"/>
         </item>
@@ -937,7 +1017,7 @@
             <title><![CDATA[Don`t Call Me - The 7th Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[샤이니 (SHINee)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -945,7 +1025,7 @@
             <title><![CDATA[Eyes wide open (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -953,7 +1033,7 @@
             <title><![CDATA[minisode1 : Blue Hour (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[투모로우바이투게더]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -961,7 +1041,7 @@
             <title><![CDATA[THE FIRST STEP : TREASURE EFFECT (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE (트레저)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -969,7 +1049,7 @@
             <title><![CDATA[BE (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3M.gif" length="0" type="image/gif"/>
         </item>
@@ -977,7 +1057,7 @@
             <title><![CDATA[THE FIRST STEP : CHAPTER ONE (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE (트레저)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -985,7 +1065,7 @@
             <title><![CDATA[We Go Up - The 2nd Mini Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -993,7 +1073,7 @@
             <title><![CDATA[NCT 2018 EMPATHY (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -1001,7 +1081,7 @@
             <title><![CDATA[The Classic Album II - My Favorite Songs (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[김호중]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1009,7 +1089,7 @@
             <title><![CDATA[The Classic Album I - My Favorite Arias (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[김호중]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1017,7 +1097,7 @@
             <title><![CDATA[One-reeler / Act IV (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[IZ*ONE (아이즈원)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1025,7 +1105,7 @@
             <title><![CDATA[KAI - The 1st Mini Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[카이 (KAI)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1033,7 +1113,7 @@
             <title><![CDATA[Breath of Love : Last Piece (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[GOT7]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1041,7 +1121,7 @@
             <title><![CDATA[NCT RESONANCE Pt. 2 - The 2nd Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -1049,7 +1129,7 @@
             <title><![CDATA[Poet l Artist (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[종현 (JONGHYUN)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1057,7 +1137,7 @@
             <title><![CDATA[Fatal Love (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[몬스타엑스]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1065,7 +1145,7 @@
             <title><![CDATA[Super One (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[SuperM]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -1073,7 +1153,7 @@
             <title><![CDATA[Special Album '; [Semicolon]' (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -1081,7 +1161,7 @@
             <title><![CDATA[NCT RESONANCE Pt. 1 - The 2nd Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -1089,7 +1169,7 @@
             <title><![CDATA[THE ALBUM (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -1097,7 +1177,7 @@
             <title><![CDATA[우리家 (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[김호중]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -1105,7 +1185,7 @@
             <title><![CDATA[5th MINI ALBUM [CHASE] (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[더보이즈(THE BOYZ)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1113,7 +1193,7 @@
             <title><![CDATA[꿈의 장: STAR (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[투모로우바이투게더]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1121,7 +1201,7 @@
             <title><![CDATA[MAGENTA (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[강다니엘]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1129,7 +1209,7 @@
             <title><![CDATA[6TH MINI ALBUM `YOU MADE MY DAWN` (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -1137,7 +1217,7 @@
             <title><![CDATA[ZERO : FEVER Part.1 (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[ATEEZ (에이티즈)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1145,7 +1225,7 @@
             <title><![CDATA[SPECIAL EDITION [How You Like That] (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1153,7 +1233,7 @@
             <title><![CDATA[10억뷰 - The 1st Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[세훈&amp;찬열]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -1161,7 +1241,7 @@
             <title><![CDATA[꿈의 장: MAGIC (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[투모로우바이투게더]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1169,7 +1249,7 @@
             <title><![CDATA[7th Mini Album `헹가래` (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1M.gif" length="0" type="image/gif"/>
         </item>
@@ -1177,7 +1257,7 @@
             <title><![CDATA[GO生 (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids (스트레이 키즈)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1185,7 +1265,7 @@
             <title><![CDATA[Oneiric Diary (幻想日記) (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[IZ*ONE (아이즈원)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -1193,7 +1273,7 @@
             <title><![CDATA[MORE & MORE (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -1201,7 +1281,7 @@
             <title><![CDATA[NCT #127 Neo Zone The Final Round - The 2nd Album Repackage (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -1209,7 +1289,7 @@
             <title><![CDATA[FANTASIA X (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[몬스타엑스]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1217,7 +1297,7 @@
             <title><![CDATA[Delight - The 2nd Mini Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[백현 (BAEKHYUN)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3P.gif" length="0" type="image/gif"/>
         </item>
@@ -1225,7 +1305,7 @@
             <title><![CDATA[꿈의 장: ETERNITY (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[투모로우바이투게더]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1233,7 +1313,7 @@
             <title><![CDATA[COLOR*IZ (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[IZ*ONE (아이즈원)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1241,7 +1321,7 @@
             <title><![CDATA[Reload (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
         </item>
@@ -1249,7 +1329,7 @@
             <title><![CDATA[DYE (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[GOT7]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1257,7 +1337,7 @@
             <title><![CDATA[자화상 - The 1st Mini Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[수호 (SUHO)]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
@@ -1265,7 +1345,7 @@
             <title><![CDATA[NCT #127 Neo Zone - The 2nd Album (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3P.gif" length="0" type="image/gif"/>
         </item>
@@ -1273,88 +1353,8 @@
             <title><![CDATA[CYAN (가온차트 ─ 인증)]]></title>
             <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
             <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[강다니엘]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[MAP OF THE SOUL : 7 (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_4M.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[BLOOM*IZ (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[IZ*ONE (아이즈원)]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[OBSESSION - The 6th Album (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[EXO]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_3P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Call My Name (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[GOT7]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Time_Slip - The 9th Album (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 (Super Junior)]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[The 6th Mini Album `Happily Ever After` (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴이스트 (NU`EST)]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Feel Special (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[비상 : QUANTUM LEAP (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[X1 (엑스원)]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_2P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[HEART*IZ (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[IZ*ONE (아이즈원)]]></content:encoded>
-            <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[We Boom - The 3rd Mini Album (가온차트 ─ 인증)]]></title>
-            <link>https://KPOPCORD.github.io/gaonchart/all.xml</link>
-            <guid>https://KPOPCORD.github.io/gaonchart/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 13:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="http://gaonchart.co.kr/images/ico/ALBUM_1P.gif" length="0" type="image/gif"/>
         </item>
     </channel>
